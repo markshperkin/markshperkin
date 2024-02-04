@@ -1,6 +1,13 @@
-# 🏄‍♂️ Mark Shperkin
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Student-Athlete;Computer+Science+major;Always+learning+new+things" alt="Typing SVG" /></a>
+<div align="center">
+  <p>
+    <a href="https://github.com/mateusadada">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Mateus+Adada" alt="Mateus Adada"/></a>
+  </p>
+  
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0E&random=false&width=435&lines=Student-Athlete;Computer+Science+major;Always+learning+new+things;passionate+developer+from+Israel" alt="Typing SVG" /></a>
+  </p>
+</div>
 
 I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.4. Throughout my academic journey, I have consistently demonstrated my commitment to excellence though my career as a studetn-athlete.
 Part of the Gamecock swimming SEC D1 team for 5 seasons. 
