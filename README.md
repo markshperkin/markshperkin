@@ -41,6 +41,15 @@ Rule based chat bot that is integrated with an AI agent that plays backgammon us
 ### Link 
 https://github.com/markshperkin/CSCE580-MarkShperkin-repo
 
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo/blob/main/README.md"><img width="278" src="https://github.com/markshperkin/CSCE580-MarkShperkin-repo-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+
 <!-- END PROJECTS-CARDS -->
 
 #
