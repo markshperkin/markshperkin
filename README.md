@@ -2,20 +2,9 @@
 
 **`Software engeneer (Developer/Athlete/)`**
 
-[![GitHub stars](https://img.shields.io/github/stars/markshperkin/your_project)](https://github.com/markshperkin/your_project/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/markshperkin/your_project)](https://github.com/markshperkin/your_project/network)
-[![GitHub issues](https://img.shields.io/github/issues/markshperkin/your_project)](https://github.com/markshperkin/your_project/issues)
-
-
-<div id="header" align="center" style="position: relative;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wzcDR6djlsM3Y0NmdyNmYyazZjZmRyb3g4bHZzcDJ6bWhkM2c4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" width="10000" style="position: absolute; top: 0; left: 0;"/>
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
-    <p style="background-color: rgba(255, 255, 255, 0.7); padding: 20px; border-radius: 10px;">
-      This is some text describing your project or providing additional information about the GIF.
-    </p>
-  </div>
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wzcDR6djlsM3Y0NmdyNmYyazZjZmRyb3g4bHZzcDJ6bWhkM2c4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" width="10000"/>
 </div>
-
 
 I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.4. Throughout my academic journey, I have consistently demonstrated my commitment to excellence though my carreer as a studetn-athlete. I was part of the Gamecock swimming team for 5 seasons. 
 
@@ -23,7 +12,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 
 ---
 
-### 🧰 Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
