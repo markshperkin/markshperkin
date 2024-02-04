@@ -1,6 +1,6 @@
 # 🏄‍♂️ Mark Shperkin
 
-**`Software engeneer (Developer/Athlete/)`**
+**`Computer Science Student-Athlete`**
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wzcDR6djlsM3Y0NmdyNmYyazZjZmRyb3g4bHZzcDJ6bWhkM2c4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" width="10000"/>
