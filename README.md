@@ -32,7 +32,7 @@ part of the Gamecock swimming SEC D1 team for 5 seasons.
 
 #
 
-### 📺 Latest Projects
+### </>💻 Latest Projects
 
 <!-- BEGIN PROJECTS-CARDS -->
 
