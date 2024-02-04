@@ -2,6 +2,11 @@
 
 **`Software engeneer (Developer/Athlete/)`**
 
+[![GitHub stars](https://img.shields.io/github/stars/markshperkin/your_project)](https://github.com/markshperkin/your_project/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/markshperkin/your_project)](https://github.com/markshperkin/your_project/network)
+[![GitHub issues](https://img.shields.io/github/issues/markshperkin/your_project)](https://github.com/markshperkin/your_project/issues)
+
+
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wzcDR6djlsM3Y0NmdyNmYyazZjZmRyb3g4bHZzcDJ6bWhkM2c4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" width="10000"/>
 </div>
