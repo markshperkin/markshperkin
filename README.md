@@ -36,6 +36,15 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 
 <!-- END PROJECTS-CARDS -->
 
+#
+
+### 📊 Stats
+
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshperkin_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 
 <details>
  <summary><h3>👨‍💻 Mark's Coding Journey</h3></summary>
