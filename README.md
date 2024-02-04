@@ -9,9 +9,8 @@
 I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.4. Throughout my academic journey, I have consistently demonstrated my commitment to excellence though my carreer as a studetn-athlete.
 part of the Gamecock swimming SEC D1 team for 5 seasons. 
 
-//todo add pictures of swimming.
 <div id="header" align="center">
-<img src="swimming.jpg" width="1000"/>
+<img src="swimming.jpg" width="100"/>
 </div>
 ---
 
