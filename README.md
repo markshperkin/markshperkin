@@ -3,7 +3,7 @@
 **`Software engeneer (Developer/Athlete/)`**
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajk2dmQ3aGo3MGZqcHljMnkxdGhlbGp5Mnd1bnZ5ejVuem5hZHFseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wzcDR6djlsM3Y0NmdyNmYyazZjZmRyb3g4bHZzcDJ6bWhkM2c4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" width="10000"/>
 </div>
 
 I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.4. Throughout my academic journey, I have consistently demonstrated my commitment to excellence though my carreer as a studetn-athlete. I was part of the Gamecock swimming team for 5 seasons. 
