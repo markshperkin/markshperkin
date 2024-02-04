@@ -10,7 +10,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 part of the Gamecock swimming SEC D1 team for 5 seasons. 
 
 <div id="header" align="center">
-<img src="swimming.jpg" width="100"/>
+<img src="swimming.jpg" width="900"/>
 </div>
 ---
 
