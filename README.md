@@ -6,10 +6,13 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wzcDR6djlsM3Y0NmdyNmYyazZjZmRyb3g4bHZzcDJ6bWhkM2c4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" width="10000"/>
 </div>
 
-I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.4. Throughout my academic journey, I have consistently demonstrated my commitment to excellence though my carreer as a studetn-athlete. I was part of the Gamecock swimming team for 5 seasons. 
+I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.4. Throughout my academic journey, I have consistently demonstrated my commitment to excellence though my carreer as a studetn-athlete.
+part of the Gamecock swimming SEC D1 team for 5 seasons. 
 
 //todo add pictures of swimming.
-
+<div id="header" align="center">
+<img src="swimming.jpg" width="1000"/>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools
