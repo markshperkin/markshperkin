@@ -1,11 +1,10 @@
 <div align="center">
   <p>
-    <a href="https://github.com/mateusadada">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Mateus+Adada" alt="Mateus Adada"/></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0E&center=true&random=false&width=435&lines=Mark+Shperkin" alt="Typing SVG" /></a>
   </p>
   
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0E&random=false&width=435&lines=Student-Athlete;Computer+Science+major;Always+learning+new+things;passionate+developer+from+Israel" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0E&center=true&random=false&width=435&lines=Student-Athlete;Computer+Science+major;Always+learning+new+things;passionate+developer+from+Israel" alt="Typing SVG" /></a>
   </p>
 </div>
 
