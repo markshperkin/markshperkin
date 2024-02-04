@@ -2,6 +2,9 @@
 
 **`Computer Science Student-Athlete`**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Student-Athlete;Computer+Science+major;Always+learning+new+things" alt="Typing SVG" /></a>
+
 I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.4. Throughout my academic journey, I have consistently demonstrated my commitment to excellence though my career as a studetn-athlete.
 Part of the Gamecock swimming SEC D1 team for 5 seasons. 
 
@@ -43,7 +46,7 @@ https://github.com/markshperkin/CSCE580-MarkShperkin-repo
 
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
