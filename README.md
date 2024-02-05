@@ -36,7 +36,6 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 
 #
 
-### </>💻 Latest Projects
 
 <!-- BEGIN PROJECTS-CARDS -->
 ### Backgammon
@@ -49,12 +48,11 @@ https://github.com/markshperkin/CSCE580-MarkShperkin-repo
 
 
 <details open> 
-  <summary><h2>📘 My Projects</h2></summary>
+  <summary><h2></>💻 Latest Project</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+
   <p align="left">
-    <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo"><img width="278" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRuNnp2cTF4czZobGswZm4zd2RxcnhuZXVqbDh4aHM5ZzMwdmZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OVCBWXeQlmHMxj9O0/giphy.gif&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Backgammon"></a>
   </p>
 
 <p align="left">
