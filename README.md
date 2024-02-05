@@ -43,8 +43,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 
 <details open> 
   <summary><h2></>💻 Latest Project</h2></summary>
-### Backgammon
-Rule based chat bot that is integrated with an AI agent that plays backgammon using MinMax search method.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0C2DF7&random=false&width=435&lines=Backgammon;Chatbot" alt="Typing SVG" /></a>Rule based chat bot that is integrated with an AI agent that plays backgammon using MinMax search method.
   <p align="left">
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo"><img width="278" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRuNnp2cTF4czZobGswZm4zd2RxcnhuZXVqbDh4aHM5ZzMwdmZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OVCBWXeQlmHMxj9O0/giphy.gif" width="100" alt="Backgammon"></a>
   </p>
