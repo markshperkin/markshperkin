@@ -50,8 +50,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
   </p>
 
 <p align="left">
- <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project README</a> |
- <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo/graphs/contributors">View Project Contributors</a>
+ <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a> |
 </p>
 
   <a href="https://github.com/markshperkin?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
