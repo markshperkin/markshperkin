@@ -44,13 +44,13 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 <details open> 
   <summary><h2></>💻 Latest Project</h2></summary>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0C2DF7&random=false&width=435&lines=Backgammon;Chatbot" alt="Typing SVG" /></a>
-<h3>Rule based chat bot that is integrated with an AI agent that plays backgammon using MinMax search method.<h3>
+<h3 style="background-color: #f0f0f0; border-radius: 5px; padding: 10px;">Rule based chat bot that is integrated with an AI agent that plays backgammon using MinMax search method.</h3>
   <p align="left">
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo"><img width="278" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRuNnp2cTF4czZobGswZm4zd2RxcnhuZXVqbDh4aHM5ZzMwdmZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OVCBWXeQlmHMxj9O0/giphy.gif" width="100" alt="Backgammon"></a>
   </p>
 
 <p align="left">
- <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a> |
+ <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
 </p>
 
   <a href="https://github.com/markshperkin?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
