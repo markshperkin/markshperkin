@@ -74,13 +74,13 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 <p>
 My passion for coding blossomed at the University of South Carolina, where I was constantly challenged and inspired by a supportive community. One of the most rewarding aspects of my coding journey has been the immense satisfaction that comes from solving coding problems. It is akin to cracking a complex puzzle or finally reaching the summit after a challenging climb. The initial frustration of grappling with a problem, followed by the "aha!" moment when the solution clicks into place, is a uniquely exhilarating experience.
 </p>
-<h2>Fueled by Accomplishment:<h2>
+<h2>Fueled by Accomplishment:</h2>
 <p>
 This sense of accomplishment fuels my motivation to tackle even more intricate challenges. It's a continuous learning process, where every solved problem opens the door to new possibilities and ignites a desire to explore further. The joy of problem-solving is what truly fuels my passion for coding and propels me forward on this exciting journey.
-<p/>
-<h2>Embracing the Real World:<h2>
+</p>
+<h2>Embracing the Real World:</h2>
 <p>
 Graduation marks a transition from the structured learning environment to the dynamic world of professional development. While the curriculum and specific problem sets may change, the thrill of problem-solving and the satisfaction it brings remain constant. I'm eager to test my skills in real-world scenarios, tackling complex problems that impact businesses and communities. The prospect of collaborating with experienced developers and contributing solutions that address tangible challenges is incredibly exciting. I'm confident that the foundation I built at USC, coupled with the continuous learning spirit fostered by the coding community, will equip me to navigate these new challenges and experience the profound satisfaction that comes with making a real-world impact through code.
-<p/>
+</details>p>
   
 
