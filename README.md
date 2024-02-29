@@ -72,7 +72,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
  <summary><h3>👨‍💻 Mark's Coding Journey</h3></summary>
 <h2>Blossoming Passion and the Thrill of the Challenge:</h2>
 
-My passion for coding blossomed at the University of South Carolina, where I was constantly challenged and inspired by a supportive community. One of the most rewarding aspects of my coding journey has been the immense satisfaction that comes from solving coding problems. It is akin to cracking a complex puzzle or finally reaching the summit after a challenging climb. The initial frustration of grappling with a problem, followed by the "aha!" moment when the solution clicks into place, is a uniquely exhilarating experience.
+My passion for coding blossomed at the University of South Carolina, where I was constantly challenged and inspired by a supportive community. One of the most rewarding aspects of my coding journey has been the immense satisfaction that comes from solving coding problems. It is about cracking a complex puzzle or finally reaching the summit after a challenging climb. The initial frustration of grappling with a problem, followed by the "aha!" moment when the solution clicks into place, is a uniquely exhilarating experience.
 
 <h2>Fueled by Accomplishment:</h2>
 
