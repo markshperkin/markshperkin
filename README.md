@@ -45,7 +45,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 <details open> 
   <summary><h2></>💻 Latest Project</h2></summary>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0C2DF7&random=false&width=435&lines=Backgammon;Chatbot" alt="Typing SVG" /></a>
-<h3>Rule based chat bot that is integrated with an AI agent that plays backgammon using MinMax search method.<h3>
+<h3> Rule-based chat bot integrated with an AI agent that plays backgammon using the MinMax search method.<h3>
   <p align="left">
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo"><img width="278" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRuNnp2cTF4czZobGswZm4zd2RxcnhuZXVqbDh4aHM5ZzMwdmZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OVCBWXeQlmHMxj9O0/giphy.gif" width="100" alt="Backgammon"></a>
   </p>
@@ -70,5 +70,10 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 
 <details>
  <summary><h3>👨‍💻 Mark's Coding Journey</h3></summary>
-todo
+  My passion for coding blossomed at USC, where I was constantly challenged and inspired by a supportive community.
+  One of the most rewarding aspects of my coding journey has been the immense satisfaction that comes from solving coding problems. the feeling of cracking a complex puzzle or finally reaching the summit after a challenging climb. The initial frustration of grappling with a problem, followed by the "aha!" moment when the solution clicks into place, is a uniquely exhilarating experience. 
+  This sense of accomplishment fuels my motivation to tackle even more intricate challenges. It's a continuous learning process, where every solved problem opens the door to new possibilities and ignites a desire to explore further. The joy of problem-solving is what truly fuels my passion for coding and propels me forward on this exciting journey.
+Graduation marks a transition from the structured learning environment to the dynamic world of professional development. While the curriculum and specific problem sets may change, the thrill of problem-solving and the satisfaction it brings remain constant.
+I'm eager to test my skills in real-world scenarios, tackling complex problems that impact businesses and communities. The prospect of collaborating with experienced developers and contributing solutions that address tangible challenges is incredibly exciting. I'm confident that the foundation I built at USC, coupled with the continuous learning spirit fostered by the coding community, will equip me to navigate these new challenges and experience the profound satisfaction that comes with making a real-world impact through code.
+  
 
