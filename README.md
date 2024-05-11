@@ -37,11 +37,10 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 
 #
 
-
 <!-- BEGIN PROJECTS-CARDS -->
 
-<details open> 
-  <h2></>💻 Latest Projects</h2>
+<details> 
+  <summary><h2></>💻 Latest Projects</h2></summary>
   
   <h3>Backgammon AI Agent</h3>
   <p align="left">
@@ -66,6 +65,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 </details>
 
 <!-- END PROJECTS-CARDS -->
+
 
 #
 
