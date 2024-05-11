@@ -40,24 +40,33 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 
 <!-- BEGIN PROJECTS-CARDS -->
 
-
-
 <details open> 
-  <summary><h2></>💻 Latest Project</h2></summary>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0C2DF7&random=false&width=435&lines=Backgammon;Chatbot" alt="Typing SVG" /></a>
-<h3> Rule-based chatbot integrated with an AI agent that plays backgammon using the MinMax search method.<h3>
+  <h2></>💻 Latest Projects</h2>
+  
+  <h3>Backgammon AI Agent</h3>
   <p align="left">
-    <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo"><img width="278" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRuNnp2cTF4czZobGswZm4zd2RxcnhuZXVqbDh4aHM5ZzMwdmZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7OVCBWXeQlmHMxj9O0/giphy.gif" width="100" alt="Backgammon"></a>
+    Rule-based chatbot integrated with an AI agent that plays backgammon using the MinMax search method.
+  </p>
+  <p align="left">
+    <em>This project is still in progress.</em>
+  </p>
+  <p align="left">
+    <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
   </p>
 
-<p align="left">
- <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
-</p>
+  <h3>Android Projects</h3>
+  <ul>
+    <li><a href="https://github.com/markshperkin/location">Location</a></li>
+    <li><a href="https://github.com/markshperkin/CameraXApp">CameraXApp</a></li>
+    <li><a href="https://github.com/markshperkin/MiniPaint">MiniPaint</a></li>
+    <li><a href="https://github.com/markshperkin/Sensor-Game-Application">Sensor-Game-Application</a></li>
+  </ul>
 
   <a href="https://github.com/markshperkin?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <!-- END PROJECTS-CARDS -->
+
 #
 
 ### 📊 Stats
