@@ -8,7 +8,7 @@
   </p>
 </div>
 
-I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.4. Throughout my academic journey, I have consistently demonstrated my commitment to excellence through my career as a student-athlete.
+I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.3. Throughout my academic journey, I have consistently demonstrated my commitment to excellence through my career as a student-athlete.
 
 Part of the Gamecock swimming SEC D1 team for 5 seasons. 
 
