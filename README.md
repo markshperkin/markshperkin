@@ -56,16 +56,16 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
   <h3>Mobile Applications</h3>
   <ul>
     <li>
-      <strong>Location:</strong> Mobile application designed to retrieve user location and display it on a map interface.
+      <strong><a href="https://github.com/markshperkin/location">Location:</a></strong> Mobile application designed to retrieve user location and display it on a map interface.
     </li>
     <li>
-      <strong>CameraXApp:</strong> Mobile application enabling users to capture photos and videos, with additional photo editing capabilities.
+      <strong><a href="https://github.com/markshperkin/CameraXApp">CameraXApp:</a></strong> Mobile application enabling users to capture photos and videos, with additional photo editing capabilities.
     </li>
     <li>
-      <strong>MiniPaint:</strong> Mobile application allowing users to express creativity through drawing, equipped with diverse drawing tools.
+      <strong><a href="https://github.com/markshperkin/MiniPaint">MiniPaint:</a></strong> Mobile application allowing users to express creativity through drawing, equipped with diverse drawing tools.
     </li>
     <li>
-      <strong>Sensor-Game-Application:</strong> Mobile application offering users an engaging gaming experience utilizing the device's built-in sensors.
+      <strong><a href="https://github.com/markshperkin/Sensor-Game-Application">Sensor-Game-Application:</a></strong> Mobile application offering users an engaging gaming experience utilizing the device's built-in sensors.
     </li>
   </ul>
 
@@ -73,6 +73,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 </details>
 
 <!-- END PROJECTS-CARDS -->
+
 
 
 
