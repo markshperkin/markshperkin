@@ -56,7 +56,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
   <h3>Mobile Applications</h3>
   <ul>
     <li>
-      <strong><a href="https://github.com/markshperkin/location">Location:</a></strong> Mobile application designed to retrieve user location and display it on a map interface.
+      <strong><a href="https://github.com/markshperkin/location">Location:</a></strong> Mobile application designed to retrieve user location and display it on a Google Map interface using Google Maps API key.
     </li>
     <li>
       <strong><a href="https://github.com/markshperkin/CameraXApp">CameraXApp:</a></strong> Mobile application enabling users to capture photos and videos, with additional photo editing capabilities.
