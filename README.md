@@ -53,7 +53,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
   </p>
 
-  <h3>Mobile Applications</h3>
+  <h3>Android Applications</h3>
   <ul>
     <li>
       <strong><a href="https://github.com/markshperkin/location">Location:</a></strong> Mobile application designed to retrieve user location and display it on a Google Map interface using Google Maps API key.
