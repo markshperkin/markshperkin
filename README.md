@@ -53,18 +53,27 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
   </p>
 
-  <h3>Android Projects</h3>
+  <h3>Mobile Applications</h3>
   <ul>
-    <li><a href="https://github.com/markshperkin/location">Location</a></li>
-    <li><a href="https://github.com/markshperkin/CameraXApp">CameraXApp</a></li>
-    <li><a href="https://github.com/markshperkin/MiniPaint">MiniPaint</a></li>
-    <li><a href="https://github.com/markshperkin/Sensor-Game-Application">Sensor-Game-Application</a></li>
+    <li>
+      <strong>Location:</strong> Mobile application designed to retrieve user location and display it on a map interface.
+    </li>
+    <li>
+      <strong>CameraXApp:</strong> Mobile application enabling users to capture photos and videos, with additional photo editing capabilities.
+    </li>
+    <li>
+      <strong>MiniPaint:</strong> Mobile application allowing users to express creativity through drawing, equipped with diverse drawing tools.
+    </li>
+    <li>
+      <strong>Sensor-Game-Application:</strong> Mobile application offering users an engaging gaming experience utilizing the device's built-in sensors.
+    </li>
   </ul>
 
   <a href="https://github.com/markshperkin?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <!-- END PROJECTS-CARDS -->
+
 
 
 #
