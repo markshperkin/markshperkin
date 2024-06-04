@@ -18,7 +18,7 @@
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td><img alt="Java" width="40px" style="padding: 10px;" src="/icons/java-programming-language-icon.svg"/></td>
     <td><img alt="C" width="40px" style="padding: 10px;" src="/icons/c-program-icon.svg" /></td>
