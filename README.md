@@ -19,7 +19,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 ### :hammer_and_wrench: Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="/icons/java-programming-language-icon.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="/icons/c-program-icon.svg" />w  
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="/icons/c-program-icon.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="/icons/c-plus-plus-programming-language-icon.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="/icons/c-sharp-programming-language-icon.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="/icons/python-programming-language-icon.svg" />
