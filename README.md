@@ -49,6 +49,8 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
     <a href="https://github.com/markshperkin/Game-AI">View Project</a>
   </p>
   
+#
+
   <h3>Backgammon AI Agent</h3>
   <p align="left">
     Rule-based chatbot integrated with an AI agent that plays backgammon using the MinMax search method.
@@ -59,6 +61,8 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
   <p align="left">
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
   </p>
+
+#
 
   <h3>Android Applications</h3>
   <ul>
