@@ -19,33 +19,32 @@
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-  <img alt="Java" width="40px" src="/icons/java-programming-language-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img alt="C" width="40px" src="/icons/c-program-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="C++" width="40px" src="/icons/c-plus-plus-programming-language-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="C#" width="40px" src="/icons/c-sharp-programming-language-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Python" width="40px" src="/icons/python-programming-language-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Kotlin" width="40px" src="/icons/kotlin-programming-language-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="JavaScript" width="40px" src="/icons/javascript-programming-language-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="TypeScript" width="40px" src="/icons/typescript-programming-language-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="R" width="40px" src="/icons/r-programming-language-icon.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="MATLAB" width="40px" src="/icons/matlab-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Haskell" width="40px" src="/icons/haskell-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Prolog" width="40px" src="/icons/prolog-svgrepo-com (1).svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="HTML" width="40px" src="/icons/html-5-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="CSS" width="40px" src="/icons/css-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Django" width="40px" src="/icons/django-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="React" width="40px" src="/icons/react-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Angular" width="40px" src="/icons/angular-icon-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="TensorFlow" width="40px" src="/icons/tensorflow-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="PyTorch" width="40px" src="/icons/pytorch-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="NLP" width="40px" src="/icons/nlp-neurolinguistic-programation-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="AWS" width="40px" src="/icons/aws-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Azure" width="40px" src="/icons/azure-v2-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Windows" width="40px" src="/icons/windows-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Linux" width="40px" src="/icons/linux-tux-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img alt="Java" width="40px" src="/icons/java-programming-language-icon.svg"/>
+  <img alt="C" width="40px" src="/icons/c-program-icon.svg" />
+  <img alt="C++" width="40px" src="/icons/c-plus-plus-programming-language-icon.svg" />
+  <img alt="C#" width="40px" src="/icons/c-sharp-programming-language-icon.svg" />
+  <img alt="Python" width="40px" src="/icons/python-programming-language-icon.svg" />
+  <img alt="Kotlin" width="40px" src="/icons/kotlin-programming-language-icon.svg" />
+  <img alt="JavaScript" width="40px" src="/icons/javascript-programming-language-icon.svg" />
+  <img alt="TypeScript" width="40px" src="/icons/typescript-programming-language-icon.svg" />
+  <img alt="R" width="40px" src="/icons/r-programming-language-icon.svg" />
+  <img alt="MATLAB" width="40px" src="/icons/matlab-svgrepo-com.svg" />
+  <img alt="Haskell" width="40px" src="/icons/haskell-svgrepo-com.svg" />
+  <img alt="Prolog" width="40px" src="/icons/prolog-svgrepo-com (1).svg" />
+  <img alt="HTML" width="40px" src="/icons/html-5-svgrepo-com.svg" />
+  <img alt="CSS" width="40px" src="/icons/css-svgrepo-com.svg" />
+  <img alt="Django" width="40px" src="/icons/django-svgrepo-com.svg" />
+  <img alt="React" width="40px" src="/icons/react-svgrepo-com.svg" />
+  <img alt="Angular" width="40px" src="/icons/angular-icon-svgrepo-com.svg" />
+  <img alt="TensorFlow" width="40px" src="/icons/tensorflow-svgrepo-com.svg" />
+  <img alt="PyTorch" width="40px" src="/icons/pytorch-svgrepo-com.svg" />
+  <img alt="NLP" width="40px" src="/icons/nlp-neurolinguistic-programation-svgrepo-com.svg" />
+  <img alt="AWS" width="40px" src="/icons/aws-svgrepo-com.svg" />
+  <img alt="Azure" width="40px" src="/icons/azure-v2-svgrepo-com.svg" />
+  <img alt="Windows" width="40px" src="/icons/windows-svgrepo-com.svg" />
+  <img alt="Linux" width="40px" src="/icons/linux-tux-svgrepo-com.svg" />
 </div>
-
 
 
 
