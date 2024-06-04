@@ -20,34 +20,35 @@
 
 <table style="border-collapse: collapse;">
   <tr>
-    <td><img alt="Java" width="40px" style="padding: 10px;" src="/icons/java-programming-language-icon.svg"/></td>
-    <td><img alt="C" width="40px" style="padding: 10px;" src="/icons/c-program-icon.svg" /></td>
-    <td><img alt="C++" width="40px" style="padding: 10px;" src="/icons/c-plus-plus-programming-language-icon.svg" /></td>
-    <td><img alt="C#" width="40px" style="padding: 10px;" src="/icons/c-sharp-programming-language-icon.svg" /></td>
-    <td><img alt="Python" width="40px" style="padding: 10px;" src="/icons/python-programming-language-icon.svg" /></td>
-    <td><img alt="Kotlin" width="40px" style="padding: 10px;" src="/icons/kotlin-programming-language-icon.svg" /></td>
-    <td><img alt="JavaScript" width="40px" style="padding: 10px;" src="/icons/javascript-programming-language-icon.svg" /></td>
-    <td><img alt="TypeScript" width="40px" style="padding: 10px;" src="/icons/typescript-programming-language-icon.svg" /></td>
-    <td><img alt="R" width="40px" style="padding: 10px;" src="/icons/r-programming-language-icon.svg" /></td>
-    <td><img alt="MATLAB" width="40px" style="padding: 10px;" src="/icons/matlab-svgrepo-com.svg" /></td>
-    <td><img alt="Haskell" width="40px" style="padding: 10px;" src="/icons/haskell-svgrepo-com.svg" /></td>
-    <td><img alt="Prolog" width="40px" style="padding: 10px;" src="/icons/prolog-svgrepo-com (1).svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Java" width="40px" src="/icons/java-programming-language-icon.svg"/></td>
+    <td style="border: none; padding: 5px;"><img alt="C" width="40px" src="/icons/c-program-icon.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="C++" width="40px" src="/icons/c-plus-plus-programming-language-icon.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="C#" width="40px" src="/icons/c-sharp-programming-language-icon.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Python" width="40px" src="/icons/python-programming-language-icon.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Kotlin" width="40px" src="/icons/kotlin-programming-language-icon.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="JavaScript" width="40px" src="/icons/javascript-programming-language-icon.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="TypeScript" width="40px" src="/icons/typescript-programming-language-icon.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="R" width="40px" src="/icons/r-programming-language-icon.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="MATLAB" width="40px" src="/icons/matlab-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Haskell" width="40px" src="/icons/haskell-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Prolog" width="40px" src="/icons/prolog-svgrepo-com (1).svg" /></td>
   </tr>
   <tr>
-    <td><img alt="HTML" width="40px" style="padding: 10px;" src="/icons/html-5-svgrepo-com.svg" /></td>
-    <td><img alt="CSS" width="40px" style="padding: 10px;" src="/icons/css-svgrepo-com.svg" /></td>
-    <td><img alt="Django" width="40px" style="padding: 10px;" src="/icons/django-svgrepo-com.svg" /></td>
-    <td><img alt="React" width="40px" style="padding: 10px;" src="/icons/react-svgrepo-com.svg" /></td>
-    <td><img alt="Angular" width="40px" style="padding: 10px;" src="/icons/angular-icon-svgrepo-com.svg" /></td>
-    <td><img alt="TensorFlow" width="40px" style="padding: 10px;" src="/icons/tensorflow-svgrepo-com.svg" /></td>
-    <td><img alt="PyTorch" width="40px" style="padding: 10px;" src="/icons/pytorch-svgrepo-com.svg" /></td>
-    <td><img alt="NLP" width="40px" style="padding: 10px;" src="/icons/nlp-neurolinguistic-programation-svgrepo-com.svg" /></td>
-    <td><img alt="AWS" width="40px" style="padding: 10px;" src="/icons/aws-svgrepo-com.svg" /></td>
-    <td><img alt="Azure" width="40px" style="padding: 10px;" src="/icons/azure-v2-svgrepo-com.svg" /></td>
-    <td><img alt="Windows" width="40px" style="padding: 10px;" src="/icons/windows-svgrepo-com.svg" /></td>
-    <td><img alt="Linux" width="40px" style="padding: 10px;" src="/icons/linux-tux-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="HTML" width="40px" src="/icons/html-5-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="CSS" width="40px" src="/icons/css-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Django" width="40px" src="/icons/django-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="React" width="40px" src="/icons/react-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Angular" width="40px" src="/icons/angular-icon-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="TensorFlow" width="40px" src="/icons/tensorflow-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="PyTorch" width="40px" src="/icons/pytorch-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="NLP" width="40px" src="/icons/nlp-neurolinguistic-programation-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="AWS" width="40px" src="/icons/aws-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Azure" width="40px" src="/icons/azure-v2-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Windows" width="40px" src="/icons/windows-svgrepo-com.svg" /></td>
+    <td style="border: none; padding: 5px;"><img alt="Linux" width="40px" src="/icons/linux-tux-svgrepo-com.svg" /></td>
   </tr>
 </table>
+
 
 
 <!-- BEGIN PROJECTS-CARDS -->
