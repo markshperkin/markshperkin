@@ -45,6 +45,8 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 
 #
 
+#
+
 <!-- BEGIN PROJECTS-CARDS -->
 
 <details> 
