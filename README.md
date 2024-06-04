@@ -15,7 +15,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <div id="header" align="center">
 <img src="swimming.jpg" width="900"/>
 </div>
-<div>
+
 ### :hammer_and_wrench: Languages and Tools
 
 <img align="right" alt="Java" width="40px" style="padding-right:30px;" src="/icons/java-programming-language-icon.svg"/>
@@ -42,7 +42,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img align="right" alt="Azure" width="40px" style="padding-right:30px;" src="/icons/azure-v2-svgrepo-com.svg" />
 <img align="right" alt="Windows" width="40px" style="padding-right:30px;" src="/icons/windows-svgrepo-com.svg" />
 <img align="right" alt="Linux" width="40px" style="padding-right:30px;" src="/icons/linux-tux-svgrepo-com.svg" />
-<div>
+
 
 #
 
