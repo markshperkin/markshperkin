@@ -47,7 +47,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <!-- BEGIN PROJECTS-CARDS -->
 
 <details> 
-  <summary><h2></>💻 Latest Projects</h2></summary>
+  <summary><h3></>💻 Latest Projects</h3></summary>
 
   <h3>Connect Four AI Agent</h3>
   <p align="left">
