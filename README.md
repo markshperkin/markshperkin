@@ -34,7 +34,17 @@
   <img alt="Prolog" width="40px" src="/icons/prolog-svgrepo-com (1).svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
   <img alt="HTML" width="40px" src="/icons/html-5-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
   <img alt="CSS" width="40px" src="/icons/css-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
-  <img alt="Django" width="40px" src="/icons/django-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale
+  <img alt="Django" width="40px" src="/icons/django-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="React" width="40px" src="/icons/react-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="Angular" width="40px" src="/icons/angular-icon-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="TensorFlow" width="40px" src="/icons/tensorflow-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="PyTorch" width="40px" src="/icons/pytorch-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="NLP" width="40px" src="/icons/nlp-neurolinguistic-programation-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="AWS" width="40px" src="/icons/aws-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="Azure" width="40px" src="/icons/azure-v2-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="Windows" width="40px" src="/icons/windows-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img alt="Linux" width="40px" src="/icons/linux-tux-svgrepo-com.svg" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+</div>
 
 
 
