@@ -15,10 +15,10 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <div id="header" align="center">
 <img src="swimming.jpg" width="900"/>
 </div>
-
+<div>
 ### :hammer_and_wrench: Languages and Tools
 
-<img align="middle" alt="Java" width="40px" style="padding-right:30px;" src="/icons/java-programming-language-icon.svg"/>
+<img align="right" alt="Java" width="40px" style="padding-right:30px;" src="/icons/java-programming-language-icon.svg"/>
 <img align="right" alt="C" width="40px" style="padding-right:30px;" src="/icons/c-program-icon.svg" />
 <img align="right" alt="C++" width="40px" style="padding-right:30px;" src="/icons/c-plus-plus-programming-language-icon.svg" />
 <img align="right" alt="C#" width="40px" style="padding-right:30px;" src="/icons/c-sharp-programming-language-icon.svg" />
@@ -30,7 +30,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img align="right" alt="MATLAB" width="40px" style="padding-right:30px;" src="/icons/matlab-svgrepo-com.svg" />
 <img align="right" alt="Haskell" width="40px" style="padding-right:30px;" src="/icons/haskell-svgrepo-com.svg" />
 <img align="right" alt="Prolog" width="40px" style="padding-right:30px;" src="/icons/prolog-svgrepo-com (1).svg" />
-<img align="middle" alt="HTML" width="40px" style="padding-right:30px;" src="/icons/html-5-svgrepo-com.svg" />
+<img align="right" alt="HTML" width="40px" style="padding-right:30px;" src="/icons/html-5-svgrepo-com.svg" />
 <img align="right" alt="CSS" width="40px" style="padding-right:30px;" src="/icons/css-svgrepo-com.svg" />
 <img align="right" alt="Django" width="40px" style="padding-right:30px;" src="/icons/django-svgrepo-com.svg" />
 <img align="right" alt="React" width="40px" style="padding-right:30px;" src="/icons//react-svgrepo-com.svg" />
@@ -42,7 +42,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img align="right" alt="Azure" width="40px" style="padding-right:30px;" src="/icons/azure-v2-svgrepo-com.svg" />
 <img align="right" alt="Windows" width="40px" style="padding-right:30px;" src="/icons/windows-svgrepo-com.svg" />
 <img align="right" alt="Linux" width="40px" style="padding-right:30px;" src="/icons/linux-tux-svgrepo-com.svg" />
-
+<div>
 
 #
 
