@@ -42,6 +42,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img align="left" alt="Azure" width="40px" style="padding-right:20px;" src="/icons/azure-v2-svgrepo-com.svg" />
 <img align="left" alt="Windows" width="40px" style="padding-right:20px;" src="/icons/windows-svgrepo-com.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:20px;" src="/icons/linux-tux-svgrepo-com.svg" />
+
 #
 
 <!-- BEGIN PROJECTS-CARDS -->
