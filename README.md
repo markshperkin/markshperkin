@@ -16,9 +16,27 @@
   <img src="swimming.jpg" width="900"/>
 </div>
 
+<style>
+  .icon-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .icon-container img {
+    transition: transform 0.3s;
+  }
+
+  .icon-container img:hover {
+    transform: scale(1.2);
+  }
+</style>
+
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div class="icon-container">
   <img alt="Java" width="40px" src="/icons/java-programming-language-icon.svg"/>
   <img alt="C" width="40px" src="/icons/c-program-icon.svg" />
   <img alt="C++" width="40px" src="/icons/c-plus-plus-programming-language-icon.svg" />
