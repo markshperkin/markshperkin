@@ -42,7 +42,7 @@ Part of the Gamecock swimming SEC D1 team for 5 seasons.
 <details> 
   <summary><h2></>💻 Latest Projects</h2></summary>
 
-    <h3>Connect Four AI Agent</h3>
+  <h3>Connect Four AI Agent</h3>
   <p align="left">
     AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning.
   </p>
