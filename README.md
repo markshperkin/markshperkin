@@ -101,6 +101,8 @@
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshperkin&show_icons=true&theme=gruvbox)
 
+#
+
 <details>
  <summary><h3>👨‍💻 Mark's Coding Journey</h3></summary>
 <h2>Blossoming Passion and the Thrill of the Challenge:</h2>
