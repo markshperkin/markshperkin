@@ -16,6 +16,8 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img src="swimming.jpg" width="900"/>
 </div>
 
+#
+
 <h2>:hammer_and_wrench: Languages and Tools<h2>
 
 <img align="right" alt="Java" width="40px" style="padding-right:30px;" src="/icons/java-programming-language-icon.svg"/>
@@ -44,7 +46,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img align="right" alt="Linux" width="40px" style="padding-right:30px;" src="/icons/linux-tux-svgrepo-com.svg" />
 
 
-#
+
 
 <!-- BEGIN PROJECTS-CARDS -->
 
