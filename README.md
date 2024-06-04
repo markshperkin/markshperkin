@@ -18,30 +18,30 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 
 ### :hammer_and_wrench: Languages and Tools
 
-<img align="left" alt="Java" width="40px" style="padding-right:20px;" src="/icons/java-programming-language-icon.svg"/>
-<img align="left" alt="C" width="40px" style="padding-right:20px;" src="/icons/c-program-icon.svg" />
-<img align="left" alt="C++" width="40px" style="padding-right:20px;" src="/icons/c-plus-plus-programming-language-icon.svg" />
-<img align="left" alt="C#" width="40px" style="padding-right:20px;" src="/icons/c-sharp-programming-language-icon.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:20px;" src="/icons/python-programming-language-icon.svg" />
-<img align="left" alt="Kotlin" width="40px" style="padding-right:20px;" src="/icons/kotlin-programming-language-icon.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:20px;" src="/icons/javascript-programming-language-icon.svg" />
-<img align="left" alt="TypeScript" width="40px" style="padding-right:20px;" src="/icons/typescript-programming-language-icon.svg" />
-<img align="left" alt="R" width="40px" style="padding-right:20px;" src="/icons/r-programming-language-icon.svg" />
-<img align="left" alt="MATLAB" width="40px" style="padding-right:20px;" src="/icons/matlab-svgrepo-com.svg" />
-<img align="left" alt="Haskell" width="40px" style="padding-right:20px;" src="/icons/haskell-svgrepo-com.svg" />
-<img align="left" alt="Prolog" width="40px" style="padding-right:20px;" src="/icons/prolog-svgrepo-com (1).svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:20px;" src="/icons/html-5-svgrepo-com.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:20px;" src="/icons/css-svgrepo-com.svg" />
-<img align="left" alt="Django" width="40px" style="padding-right:20px;" src="/icons/django-svgrepo-com.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="/icons//react-svgrepo-com.svg" />
-<img align="left" alt="Angular" width="40px" style="padding-right:20px;" src="/icons/angular-icon-svgrepo-com.svg" />
-<img align="left" alt="TensorFlow" width="40px" style="padding-right:20px;" src="/icons/tensorflow-svgrepo-com.svg" />
-<img align="left" alt="PyTorch" width="40px" style="padding-right:20px;" src="/icons/pytorch-svgrepo-com.svg" />
-<img align="left" alt="NLP" width="40px" style="padding-right:20px;" src="/icons/nlp-neurolinguistic-programation-svgrepo-com.svg" />
-<img align="left" alt="AWS" width="40px" style="padding-right:20px;" src="/icons/aws-svgrepo-com.svg" />
-<img align="left" alt="Azure" width="40px" style="padding-right:20px;" src="/icons/azure-v2-svgrepo-com.svg" />
-<img align="left" alt="Windows" width="40px" style="padding-right:20px;" src="/icons/windows-svgrepo-com.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:20px;" src="/icons/linux-tux-svgrepo-com.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:30px;" src="/icons/java-programming-language-icon.svg"/>
+<img align="left" alt="C" width="40px" style="padding-right:30px;" src="/icons/c-program-icon.svg" />
+<img align="left" alt="C++" width="40px" style="padding-right:30px;" src="/icons/c-plus-plus-programming-language-icon.svg" />
+<img align="left" alt="C#" width="40px" style="padding-right:30px;" src="/icons/c-sharp-programming-language-icon.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:30px;" src="/icons/python-programming-language-icon.svg" />
+<img align="left" alt="Kotlin" width="40px" style="padding-right:30px;" src="/icons/kotlin-programming-language-icon.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:30px;" src="/icons/javascript-programming-language-icon.svg" />
+<img align="left" alt="TypeScript" width="40px" style="padding-right:30px;" src="/icons/typescript-programming-language-icon.svg" />
+<img align="left" alt="R" width="40px" style="padding-right:30px;" src="/icons/r-programming-language-icon.svg" />
+<img align="left" alt="MATLAB" width="40px" style="padding-right:30px;" src="/icons/matlab-svgrepo-com.svg" />
+<img align="left" alt="Haskell" width="40px" style="padding-right:30px;" src="/icons/haskell-svgrepo-com.svg" />
+<img align="left" alt="Prolog" width="40px" style="padding-right:30px;" src="/icons/prolog-svgrepo-com (1).svg" />
+<img align="left" alt="HTML" width="40px" style="padding-right:30px;" src="/icons/html-5-svgrepo-com.svg" />
+<img align="left" alt="CSS" width="40px" style="padding-right:30px;" src="/icons/css-svgrepo-com.svg" />
+<img align="left" alt="Django" width="40px" style="padding-right:30px;" src="/icons/django-svgrepo-com.svg" />
+<img align="left" alt="React" width="40px" style="padding-right:30px;" src="/icons//react-svgrepo-com.svg" />
+<img align="left" alt="Angular" width="40px" style="padding-right:30px;" src="/icons/angular-icon-svgrepo-com.svg" />
+<img align="left" alt="TensorFlow" width="40px" style="padding-right:30px;" src="/icons/tensorflow-svgrepo-com.svg" />
+<img align="left" alt="PyTorch" width="40px" style="padding-right:30px;" src="/icons/pytorch-svgrepo-com.svg" />
+<img align="left" alt="NLP" width="40px" style="padding-right:30px;" src="/icons/nlp-neurolinguistic-programation-svgrepo-com.svg" />
+<img align="left" alt="AWS" width="40px" style="padding-right:30px;" src="/icons/aws-svgrepo-com.svg" />
+<img align="left" alt="Azure" width="40px" style="padding-right:30px;" src="/icons/azure-v2-svgrepo-com.svg" />
+<img align="left" alt="Windows" width="40px" style="padding-right:30px;" src="/icons/windows-svgrepo-com.svg" />
+<img align="left" alt="Linux" width="40px" style="padding-right:30px;" src="/icons/linux-tux-svgrepo-com.svg" />
 
 #
 
