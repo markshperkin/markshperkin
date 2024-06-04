@@ -4,19 +4,19 @@
   </p>
   
   <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&random=false&width=435&lines=Student-Athlete;Computer+Science;Passionate+developer+from+Israel" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&random=false&width=435&lines=Student-Athlete;Computer+Science;Passionate+developer+from+Israel" alt="Typing SVG" /></a>
   </p>
 </div>
 
-I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.3. Throughout my academic journey, I have consistently demonstrated my commitment to excellence through my career as a student-athlete.
+<p>I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.3. Throughout my academic journey, I have consistently demonstrated my commitment to excellence through my career as a student-athlete.</p>
 
-<h3>Part of the Gamecock swimming SEC D1 team for 5 seasons.<h3>
+<h3>Part of the Gamecock swimming SEC D1 team for 5 seasons.</h3>
 
 <div id="header" align="center">
-<img src="swimming.jpg" width="900"/>
+  <img src="swimming.jpg" width="900"/>
 </div>
 
-<h2>:hammer_and_wrench: Languages and Tools<h2>
+<h2>:hammer_and_wrench: Languages and Tools</h2>
 
 <img align="right" alt="Java" width="40px" style="padding-right:30px;" src="/icons/java-programming-language-icon.svg"/>
 <img align="right" alt="C" width="40px" style="padding-right:30px;" src="/icons/c-program-icon.svg" />
@@ -33,7 +33,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img align="right" alt="HTML" width="40px" style="padding-right:30px;" src="/icons/html-5-svgrepo-com.svg" />
 <img align="right" alt="CSS" width="40px" style="padding-right:30px;" src="/icons/css-svgrepo-com.svg" />
 <img align="right" alt="Django" width="40px" style="padding-right:30px;" src="/icons/django-svgrepo-com.svg" />
-<img align="right" alt="React" width="40px" style="padding-right:30px;" src="/icons//react-svgrepo-com.svg" />
+<img align="right" alt="React" width="40px" style="padding-right:30px;" src="/icons/react-svgrepo-com.svg" />
 <img align="right" alt="Angular" width="40px" style="padding-right:30px;" src="/icons/angular-icon-svgrepo-com.svg" />
 <img align="right" alt="TensorFlow" width="40px" style="padding-right:30px;" src="/icons/tensorflow-svgrepo-com.svg" />
 <img align="right" alt="PyTorch" width="40px" style="padding-right:30px;" src="/icons/pytorch-svgrepo-com.svg" />
@@ -43,11 +43,10 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img align="right" alt="Windows" width="40px" style="padding-right:30px;" src="/icons/windows-svgrepo-com.svg" />
 <img align="right" alt="Linux" width="40px" style="padding-right:30px;" src="/icons/linux-tux-svgrepo-com.svg" />
 
-
 <!-- BEGIN PROJECTS-CARDS -->
 
 <details> 
-  <summary><h3></>💻 Latest Projects</h3></summary>
+  <summary><h3>💻 Latest Projects</h3></summary>
 
   <h3>Connect Four AI Agent</h3>
   <p align="left">
@@ -57,8 +56,6 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
     <a href="https://github.com/markshperkin/Game-AI">View Project</a>
   </p>
   
-#
-
   <h3>Backgammon AI Agent</h3>
   <p align="left">
     Rule-based chatbot integrated with an AI agent that plays backgammon using the MinMax search method.
@@ -69,8 +66,6 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
   <p align="left">
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
   </p>
-
-#
 
   <h3>Android Applications</h3>
   <ul>
@@ -88,39 +83,26 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
     </li>
   </ul>
 
-#
-
   <a href="https://github.com/markshperkin?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <!-- END PROJECTS-CARDS -->
 
-
-
-
-#
-
 ### 📊 Stats
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markshperkin&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 <details>
  <summary><h3>👨‍💻 Mark's Coding Journey</h3></summary>
 <h2>Blossoming Passion and the Thrill of the Challenge:</h2>
 
-My passion for coding blossomed at the University of South Carolina, where I was constantly challenged and inspired by a supportive community. One of the most rewarding aspects of my coding journey has been the immense satisfaction that comes from solving coding problems. It is about cracking a complex puzzle or finally reaching the summit after a challenging climb. The initial frustration of grappling with a problem, followed by the "aha!" moment when the solution clicks into place, is a uniquely exhilarating experience.
+<p>My passion for coding blossomed at the University of South Carolina, where I was constantly challenged and inspired by a supportive community. One of the most rewarding aspects of my coding journey has been the immense satisfaction that comes from solving coding problems. It is about cracking a complex puzzle or finally reaching the summit after a challenging climb. The initial frustration of grappling with a problem, followed by the "aha!" moment when the solution clicks into place, is a uniquely exhilarating experience.</p>
 
 <h2>Fueled by Accomplishment:</h2>
 
-This sense of accomplishment fuels my motivation to tackle even more intricate challenges. It's a continuous learning process, where every solved problem opens the door to new possibilities and ignites a desire to explore further. The joy of problem-solving is what truly fuels my passion for coding and propels me forward on this exciting journey.
+<p>This sense of accomplishment fuels my motivation to tackle even more intricate challenges. It's a continuous learning process, where every solved problem opens the door to new possibilities and ignites a desire to explore further. The joy of problem-solving is what truly fuels my passion for coding and propels me forward on this exciting journey.</p>
 
 <h2>Embracing the Real World:</h2>
 
-Graduation marks a transition from the structured learning environment to the dynamic world of professional development. While the curriculum and specific problem sets may change, the thrill of problem-solving and the satisfaction it brings remain constant. I'm eager to test my skills in real-world scenarios, tackling complex problems that impact businesses and communities. The prospect of collaborating with experienced developers and contributing solutions that address tangible challenges is incredibly exciting. I'm confident that the foundation I built at USC, coupled with the continuous learning spirit fostered by the coding community, will equip me to navigate these new challenges and experience the profound satisfaction that comes with making a real-world impact through code.
-
-  
-
+<p>Graduation marks a transition from the structured learning environment to the dynamic world of professional development. While the curriculum and specific problem sets may change, the thrill of problem-solving and the satisfaction it brings remain constant. I'm eager to test my skills in real-world scenarios, tackling complex problems that impact businesses and communities. The prospect of collaborating with experienced developers and contributing solutions that address tangible challenges is incredibly exciting. I'm confident that the foundation I built at USC, coupled with the continuous learning spirit fostered by the coding community, will equip me to navigate these new challenges and experience the profound satisfaction that comes with making a real-world impact through code.</p>
+</details>
