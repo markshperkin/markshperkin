@@ -43,6 +43,7 @@ I am a recent graduate of the University of South Carolina, where I earned a Bac
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="/icons/windows-svgrepo-com.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="/icons/linux-tux-svgrepo-com.svg" />
 
+
 #
 
 <!-- BEGIN PROJECTS-CARDS -->
