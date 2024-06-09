@@ -67,9 +67,9 @@
   <p align="left">
     AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning.
   </p>
-  <p align="left">
+  <!-- <p align="left">
     <a href="https://github.com/markshperkin/Game-AI">View Project</a>
-  </p>
+  </p> -->
   
   <h3>Backgammon AI Agent</h3>
   <p align="left">
