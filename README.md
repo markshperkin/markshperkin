@@ -57,10 +57,18 @@
 
   <h3>Capstone Project</h3>
   <p align="left">
-    FancyBear is a web-based platform that simulates the experience of stock trading. Users dive into the world of trading by depositing virtual cash, which they can use to buy and sell stocks in real-time, mimicking the dynamics of the actual stock market. It is aimed to be user-friendly and allows anyone to track their stocks with confidence.
+    FancyBear is a web-based platform that simulates the experience of stock trading. Users dive into the world of trading by depositing virtual cash, which they can use to buy and sell stocks in real time, mimicking the dynamics of the actual stock market. It is aimed to be user-friendly and allows anyone to track their stocks with confidence.
   </p>
   <p align="left">
     <a href="https://github.com/david-eta/fancybear">View Project</a>
+  </p>
+
+  <h3>Athlete Perfomance Analyzer</h3>
+  <p align="left">
+      CSV Analyzer is a program written in C, designed to read and analyze CSV files containing athlete performance data. The program calculates the average performance metrics for various events and outputs the results to a new CSV file.
+  </p>
+  <p align="left">
+    <a href="https://github.com/markshperkin/Swimming-Data-Analyzer">View Project</a>
   </p>
 
   <h3>Connect Four AI Agent</h3>
