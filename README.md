@@ -9,8 +9,6 @@
 </div>
 
 <p>I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.3. Throughout my academic journey, I have consistently demonstrated my commitment to excellence through my career as a student-athlete.</p>
-#
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=markshperkin&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="markshperkin" /> 
 
 #
 
