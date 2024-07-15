@@ -57,10 +57,18 @@
 
   <h3>Capstone Project</h3>
   <p align="left">
-    FancyBear is a web-based platform that simulates the experience of stock trading. Users dive into the world of trading by depositing virtual cash, which they can use to buy and sell stocks in real time, mimicking the dynamics of the actual stock market. It is aimed to be user-friendly and allows anyone to track their stocks with confidence.
+    FancyBear is a web-based platform that simulates the experience of stock trading. Users dive into the world of trading by depositing virtual cash, which they can use to buy and sell stocks in real-time, mimicking the dynamics of the actual stock market. It is aimed to be user-friendly and allows anyone to track their stocks with confidence.
   </p>
   <p align="left">
     <a href="https://github.com/david-eta/fancybear">View Project</a>
+  </p>
+
+  <h3>MATLAB Algorithms</h3>
+  <p align="left">
+    This repository contains a collection of MATLAB/Octave algorithms developed as part of the Applied Linear Algebra lab class at the University of South Carolina.
+  </p>
+  <p align="left">
+    <a href="https://github.com/markshperkin/Applied-Linear-Algebra">View Project</a>
   </p>
 
   <h3>Athlete Perfomance Analyzer</h3>
