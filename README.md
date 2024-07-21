@@ -63,7 +63,7 @@
     <a href="https://github.com/david-eta/fancybear">View Project</a>
   </p>
 
-    <h3>Meg's Cookbook</h3>
+  <h3>Meg's Cookbook</h3>
   <p align="left">
     Meg's Cookbook is a full-stack web application developed using React and JavaScript for the front end, with a Node.js and MongoDB backend. The project includes features like user authentication, recipe uploading, and dynamic content rendering. It leverages RESTful APIs for data handling and is deployed on Render for seamless accessibility and scalability.
   </p>
