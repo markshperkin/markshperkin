@@ -63,6 +63,14 @@
     <a href="https://github.com/david-eta/fancybear">View Project</a>
   </p>
 
+    <h3>Meg's Cookbook</h3>
+  <p align="left">
+    Meg's Cookbook is a full-stack web application developed using React and JavaScript for the front end, with a Node.js and MongoDB backend. The project includes features like user authentication, recipe uploading, and dynamic content rendering. It leverages RESTful APIs for data handling and is deployed on Render for seamless accessibility and scalability.
+  </p>
+  <p align="left">
+    <a href="https://megscookbook.onrender.com">View Web Application</a>
+  </p>
+
   <h3>MATLAB Algorithms</h3>
   <p align="left">
     This repository contains a collection of MATLAB/Octave algorithms developed as part of the Applied Linear Algebra lab class at the University of South Carolina.
