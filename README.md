@@ -66,6 +66,7 @@
   <h3>Meg's Cookbook</h3>
   <p align="left">
     Meg's Cookbook is a full-stack web application developed using React and JavaScript for the front end, with a Node.js and MongoDB backend. The project includes features like user authentication, recipe uploading, and dynamic content rendering. It leverages RESTful APIs for data handling and is deployed on Render for seamless accessibility and scalability.
+    <b>Note:</b> This web application is currently in production and is available only in the alpha stage of development.
   </p>
   <p align="left">
     <a href="https://megscookbook.onrender.com">View Web Application</a>
@@ -89,7 +90,7 @@
   
   <h3>Backgammon AI Agent</h3>
   <p align="left">
-    Rule-based chatbot integrated with an AI agent that plays backgammon using the MinMax search method.
+    Rule-based chatbot is integrated with an AI agent that plays backgammon using the MinMax search method.
   </p>
   <p align="left">
     <em>This project is still in progress.</em>
