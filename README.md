@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<p>I am a recent graduate of the University of South Carolina, where I earned a Bachelor of Science in Computer Science with a solid GPA of 3.3. Throughout my academic journey, I have consistently demonstrated my commitment to excellence through my career as a student-athlete.</p>
+<p>Passionate software engineer, mobile app developer, full-stack developer, and machine learning engineer with a B.S. in Computer Science, currently pursuing an M.S. in Computer Science with a certificate in Artificial Intelligence. Proven track record in creating innovative mobile applications, and user-friendly web platforms, and developing machine learning models for real-world applications. Leveraging leadership, communication, and discipline skills honed through athletic and military experiences, along with my technical expertise, I seek dynamic tech opportunities to deliver impactful and intelligent solutions.</p>
 
 #
 
