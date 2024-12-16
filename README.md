@@ -55,6 +55,18 @@
 <details> 
   <summary><h3>💻 Latest Projects</h3></summary>
 
+  <h3>Underwater Swimmer Pose Estimation</h3>
+  <p align="left">
+    Developed in collaboration with the University of South Carolina's Division I SEC swim team, this project focuses on underwater swimmer pose estimation to analyze and improve athlete performance. Using a custom pose estimation model, the project captures the anatomical pose of swimmers by detecting keypoints during their strokes.
+
+The collected poses are intended to help analyze swimming techniques and identify areas for improvement. As the next step, I plan to use these keypoints to train a model capable of providing tailored recommendations to enhance the athlete's efficiency, technique, and speed, ultimately leading to faster and more efficient swimming.
+
+This project bridges the gap between sports performance analysis and cutting-edge technology to help athletes reach their full potential.
+  </p>
+  <p align="left">
+    <a href="https://github.com/markshperkin/SwimmingPoseEstimation.git">View Project</a>
+  </p>
+
   <h3>Capstone Project</h3>
   <p align="left">
     FancyBear is a web-based platform that simulates the experience of stock trading. Users dive into the world of trading by depositing virtual cash, which they can use to buy and sell stocks in real-time, mimicking the dynamics of the actual stock market. It is aimed to be user-friendly and allows anyone to track their stocks with confidence.
