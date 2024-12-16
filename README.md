@@ -55,7 +55,7 @@
 <details> 
   <summary><h3>💻 Latest Projects</h3></summary>
 
-<h3>Underwater Swimmer Pose Estimation</h3>
+<h3>AI Underwater Swimmer Pose Estimation</h3>
 <p align="left">
   Developed in collaboration with the <a href="https://gamecocksonline.com/sports/swimming/" target="_blank">University of South Carolina's Division I SEC swim team</a>, this project focuses on underwater swimmer pose estimation to analyze and improve athlete performance. Using a custom pose estimation architecture, the model captures the anatomical pose of swimmers by detecting keypoints during their strokes.
   
@@ -108,7 +108,7 @@
     Rule-based chatbot is integrated with an AI agent that plays backgammon using the MinMax search method.
   </p>
   <p align="left">
-    <em>This project is still in progress.</em>
+    <em>This project is in progress.</em>
   </p>
   <!-- <p align="left">
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
