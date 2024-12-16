@@ -55,17 +55,20 @@
 <details> 
   <summary><h3>💻 Latest Projects</h3></summary>
 
-  <h3>Underwater Swimmer Pose Estimation</h3>
-  <p align="left">
-    Developed in collaboration with the University of South Carolina's Division I SEC swim team, this project focuses on underwater swimmer pose estimation to analyze and improve athlete performance. Using a custom pose estimation model, the project captures the anatomical pose of swimmers by detecting keypoints during their strokes.
+<h3>Underwater Swimmer Pose Estimation</h3>
+<p align="left">
+  Developed in collaboration with the <a href="https://gamecocksonline.com/sports/swimming/" target="_blank" style="color:blue;">University of South Carolina's Division I SEC swim team</a>, this project focuses on underwater swimmer pose estimation to analyze and improve athlete performance. Using a custom pose estimation architecture, the model captures the anatomical pose of swimmers by detecting keypoints during their strokes.
+  
+  The project involved collecting and labeling underwater swimming data and training a pose estimation model using the HRNet architecture. I updated the data pipeline to work with up-to-date libraries, as the <a href="https://github.com/leoxiaobin/deep-high-resolution-net.pytorch?tab=readme-ov-file" target="_blank" style="color:blue;">publicly available code</a> was outdated and incompatible, ensuring smooth data processing and model training.
 
-The collected poses are intended to help analyze swimming techniques and identify areas for improvement. As the next step, I plan to use these keypoints to train a model capable of providing tailored recommendations to enhance the athlete's efficiency, technique, and speed, ultimately leading to faster and more efficient swimming.
+  The collected poses are intended to help analyze swimming techniques and identify areas for improvement. As the next step, I plan to use these keypoints to train a model capable of providing tailored recommendations to enhance the athlete's efficiency, technique, and speed, ultimately leading to faster and more efficient swimming.
 
-This project bridges the gap between sports performance analysis and cutting-edge technology to help athletes reach their full potential.
-  </p>
-  <p align="left">
-    <a href="https://github.com/markshperkin/SwimmingPoseEstimation.git">View Project</a>
-  </p>
+  This project bridges the gap between sports performance analysis and cutting-edge technology to help athletes reach their full potential.
+</p>
+<p align="left">
+  <a href="https://github.com/markshperkin/SwimmingPoseEstimation.git">View Project</a>
+</p>
+
 
   <h3>Capstone Project</h3>
   <p align="left">
