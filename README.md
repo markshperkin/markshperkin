@@ -12,7 +12,7 @@
 
 #
 
-<h3>Part of the Gamecock swimming SEC D1 team for 5 seasons.</h3>
+<h3>Part of the USC Gamecock swimming SEC D1 team for 5 seasons.</h3>
 
 <div id="header" align="center">
   <img src="swimming.jpg" width="900"/>
