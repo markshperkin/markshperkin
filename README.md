@@ -75,15 +75,31 @@
       <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> The implementation of examples from <a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a> research paper to model nonlinear plant systems, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
-      <a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch">Backward Propagation from Scratch:</a> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch:</a></strong> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/MiniPaint">MiniPaint:</a></strong> Mobile application allowing users to express creativity through drawing, equipped with diverse drawing tools.
+      <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch:</a></strong> Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/Sensor-Game-Application">Sensor-Game-Application:</a></strong> Mobile application offering users an engaging gaming experience utilizing the device's built-in sensors.
+      <strong><a href="https://github.com/markshperkin/GAN_from_scratch">GANs from Scratch Using PyTorch and TensorFlow:</a></strong> The implementation of Generative Adversarial Network (GAN) from scratch using PyTorch and TensorFlow, featuring a generator and discriminator that compete to produce and distinguish realistic synthetic data, developed as part of the Neural Networks class at the University of South Carolina.
+    </li>
+        <li>
+      <strong><a href="https://github.com/markshperkin/Transformer_from_scratch">Transformer from Scratch Using PyTorch:</a></strong> The implementation of Transformer model from scratch using PyTorch, leveraging self-attention mechanisms for sequence tasks like NLP, enabling efficient parallel processing and effective handling of word dependencies, developed as part of the Neural Networks class at the University of South Carolina.
+    </li>
+        <li>
+      <strong><a href="https://github.com/markshperkin/CNN-from-scratch/tree/master">CNN from Scratch Using NumPy:</a></strong> The implementation of a Convolutional Neural Network (CNN) from scratch using NumPy for image classification, showcasing the core components and operations of a CNN without external libraries, developed as part of the Neural Networks class at the University of South Carolina.
+    </li>
+        <li>
+      <strong><a href="https://github.com/markshperkin/GNN/tree/master">GNN from Scratch Using NumPy:</a></strong> The implementation of Graph Neural Networks (GNN) from scratch using PyTorch, showcasing key concepts like message passing and aggregation for graph-structured data.
+    </li>
+        <li>
+      <strong><a href="https://github.com/markshperkin/NNplot">Neural Network Activation Function Visualization:</a></strong> This project visualizes the impact of Sigmoid, Hard Limit, and Radial Basis activation functions in single-layer and two-layer neural networks using 3D surface plots generated with NumPy and Matplotlib.
     </li>
   </ul>
+
+
+
+  
   <h3>Capstone Project</h3>
   <p align="left">
     FancyBear is a web-based platform that simulates the experience of stock trading. Users dive into the world of trading by depositing virtual cash, which they can use to buy and sell stocks in real-time, mimicking the dynamics of the actual stock market. It is aimed to be user-friendly and allows anyone to track their stocks with confidence.
