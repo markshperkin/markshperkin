@@ -69,7 +69,21 @@
   <a href="https://github.com/markshperkin/SwimmingPoseEstimation.git">View Project</a>
 </p>
 
-
+  <h3>Machine Learning Projects</h3>
+  <ul>
+    <li>
+      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> The implementation of examples from <a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a> research paper to model nonlinear plant systems, developed as part of the Neural Networks class instructed by Professor Vignesh Narayanan at the University of South Carolina.
+    </li>
+    <li>
+      <strong><a href="https://github.com/markshperkin/CameraXApp">CameraXApp:</a></strong> Mobile application enabling users to capture photos and videos, with additional photo editing capabilities.
+    </li>
+    <li>
+      <strong><a href="https://github.com/markshperkin/MiniPaint">MiniPaint:</a></strong> Mobile application allowing users to express creativity through drawing, equipped with diverse drawing tools.
+    </li>
+    <li>
+      <strong><a href="https://github.com/markshperkin/Sensor-Game-Application">Sensor-Game-Application:</a></strong> Mobile application offering users an engaging gaming experience utilizing the device's built-in sensors.
+    </li>
+  </ul>
   <h3>Capstone Project</h3>
   <p align="left">
     FancyBear is a web-based platform that simulates the experience of stock trading. Users dive into the world of trading by depositing virtual cash, which they can use to buy and sell stocks in real-time, mimicking the dynamics of the actual stock market. It is aimed to be user-friendly and allows anyone to track their stocks with confidence.
