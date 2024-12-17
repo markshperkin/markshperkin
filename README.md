@@ -72,10 +72,10 @@
   <h3>Machine Learning Projects</h3>
   <ul>
     <li>
-      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> The implementation of examples from <a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a> research paper to model nonlinear plant systems, developed as part of the Neural Networks class instructed by Professor Vignesh Narayanan at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> The implementation of examples from <a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a> research paper to model nonlinear plant systems, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/CameraXApp">CameraXApp:</a></strong> Mobile application enabling users to capture photos and videos, with additional photo editing capabilities.
+      <a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch">Backward Propagation from Scratch:</a> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
       <strong><a href="https://github.com/markshperkin/MiniPaint">MiniPaint:</a></strong> Mobile application allowing users to express creativity through drawing, equipped with diverse drawing tools.
