@@ -73,10 +73,10 @@
   <h3>Machine Learning Projects</h3>
   <ul>
     <li>
-      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> In this project, I designed a convolutional neural network inspired by the [VGG](https://arxiv.org/abs/1409.1556) architecture for classifying 32x32 images into 10 different categories from The [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. Additionally, I participated in a Kaggle competition where the final score was determined by dividing the **average accuracy by the average latency**, making it crucial to optimize both accuracy and inference speed. I have finished third.
+      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". developed as part of the Neural Networks class at the University of South Carolina.
     </li>
       <li>
-      <strong><a href="https://github.com/markshperkin/CustomCNNforCIFAR-10">Custom made CNN for CIFAR-10 Classification Problem:</a></strong> The implementation custom CNN inspired by <a href="https://arxiv.org/abs/1409.1556">VGG Architecture</a>, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/CustomCNNforCIFAR-10">Custom made CNN for CIFAR-10 Classification Problem:</a></strong> The implementation custom CNN inspired by <a href="https://arxiv.org/abs/1409.1556">VGG Architecture</a>, to achieve optimal results based on accuracy and letancy. developed as part of the Edge and Neuromorphic Computing class at the University of South Carolina.
     </li>
     <li>
       <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch:</a></strong> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the Neural Networks class at the University of South Carolina.
