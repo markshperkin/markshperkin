@@ -147,14 +147,6 @@
   <!-- <p align="left">
     <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
   </p> -->
-
-  <h3>Athlete Perfomance Analyzer</h3>
-  <p align="left">
-      CSV Analyzer is a program written in C, designed to read and analyze CSV files containing athlete performance data. The program calculates the average performance metrics for various events and outputs the results to a new CSV file.
-  </p>
-  <p align="left">
-    <a href="https://github.com/markshperkin/Swimming-Data-Analyzer">View Project</a>
-  </p>
   
   <h3>Android Applications</h3>
   <ul>
