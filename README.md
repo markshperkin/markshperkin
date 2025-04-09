@@ -73,6 +73,11 @@
   <h3>Machine Learning Projects</h3>
   <ul>
     <li>
+      <strong><a href="https://github.com/markshperkin/EdgeFaceSearch">Neural Architecture and Hyperparameter Search for Face Bounding Box Prediction on Edge:</a></strong> This repository contains optimizing a neural network architecture for face bounding box prediction using a given facial image dataset. The primary objective was to design a lightweight
+and efficient model capable of performing inference on resource-constrained hardware, NVIDIA
+Jetson Nano. developed as part of the Edge and Neuromorphic Computing class at the University of South Carolina.
+    </li>
+    <li>
       <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". developed as part of the Neural Networks class at the University of South Carolina.
     </li>
       <li>
