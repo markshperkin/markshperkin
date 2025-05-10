@@ -60,7 +60,7 @@
 <p align="left">
   Implementation of <a href="https://www.mdpi.com/1424-8220/22/21/8438" target="_blank">A Spatio-Temporal Graph Convolutional Network Model for Internet of Medical Things (IoMT)</a> architecture for classifying human activity recognition 3D skeletal dataset into 49 different categories from the <a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/" target="_blank">NTU RGB+D</a> dataset, achieving 87.6
 % classification accuracy. 
-Please see my [Final Report](https://github.com/markshperkin/HAR-STGCN/blob/master/report/final%20report.pdf) for more information.
+Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/report/final%20report.pdf" target="_blank">Final Report</a> for more information.
   
    This result underscores the promise of ST-GCNs for real-time human action recognition, with potential applications in medical monitoring (e.g., distress-gesture detection in clinical and assisted-living environments), security surveillance in high-risk facilities, and objective sports performance analysis.
 
