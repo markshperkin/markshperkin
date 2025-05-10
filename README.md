@@ -54,6 +54,21 @@
 
 <details> 
   <summary><h3>💻 Latest Projects</h3></summary>
+  <h2>Final Projects</h2>
+
+  <h3>Spatial-Temporal Graph Convolution Network for Human Activity Recognition</h3>
+<p align="left">
+  Implementation of [A Spatio-Temporal Graph Convolutional Network Model for Internet of Medical Things (IoMT)](https://www.mdpi.com/1424-8220/22/21/84386) architecture for classifying human activity recognition 3D skeletal dataset into 49 different categories from the [NTU RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) dataset, achieving 87.6
+% classification accuracy. 
+Please see my [Final Report](https://github.com/markshperkin/HAR-STGCN/blob/master/report/final%20report.pdf) for more information.
+  
+   This result underscores the promise of ST-GCNs for real-time human action recognition, with potential applications in medical monitoring (e.g., distress-gesture detection in clinical and assisted-living environments), security surveillance in high-risk facilities, and objective sports performance analysis.
+
+   The ultimate goal was to provide an affordable and effective solution for biomechanical analysis, enabling athletes and coaches to optimize performance and minimize injury risk through precise, data-driven insights.
+</p>
+<p align="left">
+  <a href="https://github.com/markshperkin/SwimmingPoseEstimation.git">View Project</a>
+</p>
 
 <h3>AI Underwater Swimmer Pose Estimation</h3>
 <p align="left">
