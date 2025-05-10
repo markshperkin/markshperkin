@@ -70,7 +70,13 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
   <a href="https://github.com/markshperkin/HAR-STGCN">View Project</a>
 </p>
 
-<div></div>
+<hr style="
+  border: 0;
+  height: 4px;
+  background-color: gold;
+  width: 50%;
+  margin: 32px auto;
+" />
 
 <h3>AI Underwater Swimmer Pose Estimation</h3>
 <p align="left">
