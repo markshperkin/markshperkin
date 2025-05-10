@@ -66,8 +66,9 @@
 <p align="left">
   <a href="https://github.com/markshperkin/BackgammonAI-frontend">View Project Frontend</a>
   <a href="https://github.com/markshperkin/BackgammonAI-backend">View Project Backend</a>
-
 </p>
+
+<hr/>
 
   <h3>Spatial-Temporal Graph Convolution Network for Human Activity Recognition <a href="https://cse.sc.edu/class/714" target="_blank">(Edge and Neuromorphic Computing class)</a></h3>
 <p align="left">
@@ -100,7 +101,7 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
 </p>
 
 
-  <h3>Machine Learning Projects</h3>
+  <h3>Other Machine Learning Projects</h3>
   <ul>
     <li>
       <strong><a href="https://github.com/markshperkin/EdgeFaceSearch">Neural Architecture and Hyperparameter Search for Face Bounding Box Prediction on Edge:</a></strong> This repository contains optimizing a neural network architecture for face bounding box prediction using a given facial image dataset. The primary objective was to design a lightweight
