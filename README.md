@@ -104,7 +104,7 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
   <ul>
     <li>
       <strong><a href="https://github.com/markshperkin/EdgeFaceSearch">Neural Architecture and Hyperparameter Search for Face Bounding Box Prediction on Edge:</a></strong> This repository contains optimizing a neural network architecture for face bounding box prediction using a given facial image dataset. The primary objective was to design a lightweight
-and efficient model capable of performing inference on resource-constrained hardware, NVIDIA
+and efficient model capable of performing inference on resource-constrained hardware, such as NVIDIA
 Jetson Nano. developed as part of the Edge and Neuromorphic Computing class at the University of South Carolina.
     </li>
     <li>
