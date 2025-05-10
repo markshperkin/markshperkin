@@ -70,6 +70,8 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
   <a href="https://github.com/markshperkin/HAR-STGCN">View Project</a>
 </p>
 
+<div></div>
+
 <h3>AI Underwater Swimmer Pose Estimation</h3>
 <p align="left">
   Developed in collaboration with the <a href="https://gamecocksonline.com/sports/swimming/" target="_blank">University of South Carolina's Division I SEC swim team</a>, this project focuses on underwater swimmer pose estimation to analyze and improve athlete performance. Using a custom pose estimation architecture, the model captures the anatomical pose of swimmers by detecting keypoints during their strokes.
