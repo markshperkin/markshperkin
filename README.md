@@ -56,7 +56,7 @@
   <summary><h3>💻 Latest Projects</h3></summary>
   <h2>Final Projects</h2>
 
-  <h3>Spatial-Temporal Graph Convolution Network for Human Activity Recognition</h3>
+  <h3>Spatial-Temporal Graph Convolution Network for Human Activity Recognition <a href="https://cse.sc.edu/class/714" target="_blank">(Edge and Neuromorphic Computing class)</a></h3>
 <p align="left">
   Implementation of <a href="https://www.mdpi.com/1424-8220/22/21/8438" target="_blank">A Spatio-Temporal Graph Convolutional Network Model for Internet of Medical Things (IoMT)</a> architecture for classifying human activity recognition 3D skeletal dataset into 49 different categories from the <a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/" target="_blank">NTU RGB+D</a> dataset, achieving 87.6
 % classification accuracy. 
