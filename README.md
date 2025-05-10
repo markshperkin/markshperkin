@@ -71,9 +71,7 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
 </p>
 
 <hr style="
-  border: 0;
   height: 4px;
-  background-color: gold;
   width: 50%;
   margin: 32px auto;
 " />
