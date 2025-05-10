@@ -58,8 +58,8 @@
   <h3>Full-Stack Backgammon AI/RL agents <a href="https://cse.sc.edu/class/775" target="_blank">(Deep Reinforcement Learning class)</a></h3>
 <p align="left">
   Implementation of Expected Minimax with α–β Pruning, variations of Temporal Differences including TD(0), TD(λ), and Monte Carlo Simulation.
-  This project used the <a href="https://www.csd.uwo.ca/~xling/cs346a/extra/tdgammon.pdf" target="_blank">(Temporal Difference Learning and TD-Gammon)</a> research paper to assist in the algorithm design.
-  This project highlights the effectiveness of Reinforcement learning and simulation-based algorithms in tackling complex games, such as Backgammon, with an enormous state space of 10^20 possible configurations, where simple brute-force approaches struggle to capture the nuanced tactics employed by expert players. 
+    This project used the <a href="https://www.csd.uwo.ca/~xling/cs346a/extra/tdgammon.pdf" target="_blank">(Temporal Difference Learning and TD-Gammon)</a> research paper to assist in the algorithm design.
+    This project highlights the effectiveness of Reinforcement learning and simulation-based algorithms in tackling complex games, such as Backgammon, with an enormous state space of 10^20 possible configurations, where simple brute-force approaches struggle to capture the nuanced tactics employed by expert players. 
 </p>
 <p align="left">
   <a href="https://github.com/markshperkin/BackgammonAI-frontend">View Project Frontend</a>
