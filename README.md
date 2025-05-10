@@ -58,7 +58,7 @@
 
   <h3>Spatial-Temporal Graph Convolution Network for Human Activity Recognition</h3>
 <p align="left">
-  Implementation of <a href="https://www.mdpi.com/1424-8220/22/21/84386" target="_blank">A Spatio-Temporal Graph Convolutional Network Model for Internet of Medical Things (IoMT)</a> architecture for classifying human activity recognition 3D skeletal dataset into 49 different categories from the <a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/" target="_blank">NTU RGB+D</a> dataset, achieving 87.6
+  Implementation of <a href="https://www.mdpi.com/1424-8220/22/21/8438" target="_blank">A Spatio-Temporal Graph Convolutional Network Model for Internet of Medical Things (IoMT)</a> architecture for classifying human activity recognition 3D skeletal dataset into 49 different categories from the <a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/" target="_blank">NTU RGB+D</a> dataset, achieving 87.6
 % classification accuracy. 
 Please see my [Final Report](https://github.com/markshperkin/HAR-STGCN/blob/master/report/final%20report.pdf) for more information.
   
