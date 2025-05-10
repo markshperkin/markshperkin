@@ -56,6 +56,20 @@
   <summary><h3>💻 Latest Projects</h3></summary>
   <h2>Final Projects</h2>
 
+    <h3>Spatial-Temporal Graph Convolution Network for Human Activity Recognition <a href="https://cse.sc.edu/class/714" target="_blank">(Edge and Neuromorphic Computing class)</a></h3>
+<p align="left">
+  Implementation of <a href="https://www.mdpi.com/1424-8220/22/21/8438" target="_blank">A Spatio-Temporal Graph Convolutional Network Model for Internet of Medical Things (IoMT)</a> architecture for classifying human activity recognition 3D skeletal dataset into 49 different categories from the <a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/" target="_blank">NTU RGB+D</a> dataset, achieving 87.6
+% classification accuracy. 
+Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/report/final%20report.pdf" target="_blank">Final Report</a> for more information.
+  
+   This result underscores the promise of ST-GCNs for real-time human action recognition, with potential applications in medical monitoring (e.g., distress-gesture detection in clinical and assisted-living environments), security surveillance in high-risk facilities, and objective sports performance analysis.
+
+   The ultimate goal was to provide an affordable and effective solution for biomechanical analysis, enabling athletes and coaches to optimize performance and minimize injury risk through precise, data-driven insights.
+</p>
+<p align="left">
+  <a href="https://github.com/markshperkin/HAR-STGCN">View Project</a>
+</p>
+
   <h3>Spatial-Temporal Graph Convolution Network for Human Activity Recognition <a href="https://cse.sc.edu/class/714" target="_blank">(Edge and Neuromorphic Computing class)</a></h3>
 <p align="left">
   Implementation of <a href="https://www.mdpi.com/1424-8220/22/21/8438" target="_blank">A Spatio-Temporal Graph Convolutional Network Model for Internet of Medical Things (IoMT)</a> architecture for classifying human activity recognition 3D skeletal dataset into 49 different categories from the <a href="https://rose1.ntu.edu.sg/dataset/actionRecognition/" target="_blank">NTU RGB+D</a> dataset, achieving 87.6
