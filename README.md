@@ -110,37 +110,37 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
     <li>
       <strong><a href="https://github.com/markshperkin/EdgeFaceSearch">Neural Architecture and Hyperparameter Search for Face Bounding Box Prediction on Edge:</a></strong> This repository contains optimizing a neural network architecture for face bounding box prediction using a given facial image dataset. The primary objective was to design a lightweight
 and efficient model capable of performing inference on resource-constrained hardware, such as NVIDIA
-Jetson Nano. developed as part of the Edge and Neuromorphic Computing class at the University of South Carolina.
+Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" target="_blank">Edge and Neuromorphic Computing class</a> at the University of South Carolina.
     </li>
       <li>
-      <strong><a href="https://github.com/markshperkin/CustomCNNforCIFAR-10">Custom made CNN for CIFAR-10 Classification Problem:</a></strong> The implementation custom CNN inspired by <a href="https://arxiv.org/abs/1409.1556">VGG Architecture</a>, to achieve optimal results based on accuracy and letancy. developed as part of the Edge and Neuromorphic Computing class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/CustomCNNforCIFAR-10">Custom made CNN for CIFAR-10 Classification Problem:</a></strong> The implementation custom CNN inspired by <a href="https://arxiv.org/abs/1409.1556">VGG Architecture</a>, to achieve optimal results based on accuracy and letancy. developed as part of the <a href="https://cse.sc.edu/class/714" target="_blank">Edge and Neuromorphic Computing class</a> at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch:</a></strong> Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch:</a></strong> Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
     <li>
       <strong><a href="https://github.com/markshperkin/Game-AI">Connect Four AI Agent:</a></strong> This repository contains an AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch:</a></strong> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch:</a></strong> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/GAN_from_scratch">GANs from Scratch Using PyTorch and TensorFlow:</a></strong> The implementation of Generative Adversarial Network (GAN) from scratch using PyTorch and TensorFlow, featuring a generator and discriminator that compete to produce and distinguish realistic synthetic data, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/GAN_from_scratch">GANs from Scratch Using PyTorch and TensorFlow:</a></strong> The implementation of Generative Adversarial Network (GAN) from scratch using PyTorch and TensorFlow, featuring a generator and discriminator that compete to produce and distinguish realistic synthetic data, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
         <li>
-      <strong><a href="https://github.com/markshperkin/Transformer_from_scratch">Transformer from Scratch Using PyTorch:</a></strong> The implementation of Transformer model from scratch using PyTorch, leveraging self-attention mechanisms for sequence tasks like NLP, enabling efficient parallel processing and effective handling of word dependencies, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/Transformer_from_scratch">Transformer from Scratch Using PyTorch:</a></strong> The implementation of Transformer model from scratch using PyTorch, leveraging self-attention mechanisms for sequence tasks like NLP, enabling efficient parallel processing and effective handling of word dependencies, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
         <li>
-      <strong><a href="https://github.com/markshperkin/CNN-from-scratch/tree/master">CNN from Scratch Using NumPy:</a></strong> The implementation of a Convolutional Neural Network (CNN) from scratch using NumPy for image classification, showcasing the core components and operations of a CNN without external libraries, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/CNN-from-scratch/tree/master">CNN from Scratch Using NumPy:</a></strong> The implementation of a Convolutional Neural Network (CNN) from scratch using NumPy for image classification, showcasing the core components and operations of a CNN without external libraries, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
         <li>
-      <strong><a href="https://github.com/markshperkin/GNN/tree/master">GNN from Scratch Using NumPy:</a></strong> The implementation of Graph Neural Networks (GNN) from scratch using NumPy, showcasing key concepts like message passing and aggregation for graph-structured data.
+      <strong><a href="https://github.com/markshperkin/GNN/tree/master">GNN from Scratch Using NumPy:</a></strong> The implementation of Graph Neural Networks (GNN) from scratch using NumPy, showcasing key concepts like message passing and aggregation for graph-structured data. Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
         <li>
-      <strong><a href="https://github.com/markshperkin/NNplot">Neural Network Activation Function Visualization:</a></strong> This project visualizes the impact of Sigmoid, Hard Limit, and Radial Basis activation functions in single-layer and two-layer neural networks using 3D surface plots generated with NumPy and Matplotlib.
+      <strong><a href="https://github.com/markshperkin/NNplot">Neural Network Activation Function Visualization:</a></strong> This project visualizes the impact of Sigmoid, Hard Limit, and Radial Basis activation functions in single-layer and two-layer neural networks using 3D surface plots generated with NumPy and Matplotlib. Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
   </ul>
 
