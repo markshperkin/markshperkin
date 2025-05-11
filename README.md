@@ -7,7 +7,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&random=false&width=435&lines=Student-Athlete;Computer+Science;Passionate+developer+from+Israel" alt="Typing SVG" /></a>
   </p>
 </div>
-# 💫 About Me:
+
+## 💫 About Me:
+
 <p>Passionate software engineer, mobile app developer, full-stack developer, and machine learning engineer with a B.S. in Computer Science, currently pursuing an M.S. in Computer Science with a certificate in Artificial Intelligence. Proven track record in creating innovative mobile applications, and user-friendly web platforms, and developing machine learning models for real-world applications. Leveraging leadership, communication, and discipline skills honed through athletic and military experiences, along with my technical expertise, I seek dynamic tech opportunities to deliver impactful and intelligent solutions.</p>
 
 ## 🌐 Socials:
