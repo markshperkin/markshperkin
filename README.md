@@ -27,7 +27,7 @@
 <!-- BEGIN PROJECTS-CARDS -->
 
 <details> 
-  <summary><h3>💻 Latest Projects</h3></summary>
+  <summary><h1>💻 Latest Projects</h1></summary>
   <h2>Final Projects</h2>
 
   <h3>Full-Stack Backgammon AI/RL agents <a href="https://cse.sc.edu/class/775" target="_blank">(Deep Reinforcement Learning class)</a></h3>
