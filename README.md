@@ -166,9 +166,11 @@ Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" tar
   <a href="https://github.com/markshperkin?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<!-- END PROJECTS-CARDS -->
-#
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=markshperkin&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=markshperkin&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=markshperkin&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <details>
  <summary><h3>👨‍💻 Mark's Coding Journey</h3></summary>
