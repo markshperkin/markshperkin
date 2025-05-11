@@ -119,6 +119,9 @@ Jetson Nano. developed as part of the Edge and Neuromorphic Computing class at t
       <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch:</a></strong> Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
+      <strong><a href="https://github.com/markshperkin/Game-AI">Connect Four AI Agent:</a></strong> This repository contains an AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning.
+    </li>
+    <li>
       <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
@@ -167,14 +170,6 @@ Jetson Nano. developed as part of the Edge and Neuromorphic Computing class at t
   </p>
   <p align="left">
     <a href="https://github.com/markshperkin/Applied-Linear-Algebra">View Project</a>
-  </p>
-
-  <h3>Connect Four AI Agent</h3>
-  <p align="left">
-    AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning.
-  </p>
-  <p align="left">
-    <a href="https://github.com/markshperkin/Game-AI">View Project</a>
   </p>
   
   <h3>Mobile Applications</h3>
