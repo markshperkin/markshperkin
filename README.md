@@ -100,6 +100,7 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
   <a href="https://github.com/markshperkin/SwimmingPoseEstimation.git">View Project</a>
 </p>
 
+<hr/>
 
   <h3>Other Machine Learning Projects</h3>
   <ul>
@@ -108,17 +109,17 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
 and efficient model capable of performing inference on resource-constrained hardware, such as NVIDIA
 Jetson Nano. developed as part of the Edge and Neuromorphic Computing class at the University of South Carolina.
     </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". developed as part of the Neural Networks class at the University of South Carolina.
-    </li>
       <li>
       <strong><a href="https://github.com/markshperkin/CustomCNNforCIFAR-10">Custom made CNN for CIFAR-10 Classification Problem:</a></strong> The implementation custom CNN inspired by <a href="https://arxiv.org/abs/1409.1556">VGG Architecture</a>, to achieve optimal results based on accuracy and letancy. developed as part of the Edge and Neuromorphic Computing class at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch:</a></strong> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch:</a></strong> Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch:</a></strong> Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the Neural Networks class at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". developed as part of the Neural Networks class at the University of South Carolina.
+    </li>
+    <li>
+      <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch:</a></strong> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
     <li>
       <strong><a href="https://github.com/markshperkin/GAN_from_scratch">GANs from Scratch Using PyTorch and TensorFlow:</a></strong> The implementation of Generative Adversarial Network (GAN) from scratch using PyTorch and TensorFlow, featuring a generator and discriminator that compete to produce and distinguish realistic synthetic data, developed as part of the Neural Networks class at the University of South Carolina.
@@ -130,7 +131,7 @@ Jetson Nano. developed as part of the Edge and Neuromorphic Computing class at t
       <strong><a href="https://github.com/markshperkin/CNN-from-scratch/tree/master">CNN from Scratch Using NumPy:</a></strong> The implementation of a Convolutional Neural Network (CNN) from scratch using NumPy for image classification, showcasing the core components and operations of a CNN without external libraries, developed as part of the Neural Networks class at the University of South Carolina.
     </li>
         <li>
-      <strong><a href="https://github.com/markshperkin/GNN/tree/master">GNN from Scratch Using NumPy:</a></strong> The implementation of Graph Neural Networks (GNN) from scratch using PyTorch, showcasing key concepts like message passing and aggregation for graph-structured data.
+      <strong><a href="https://github.com/markshperkin/GNN/tree/master">GNN from Scratch Using NumPy:</a></strong> The implementation of Graph Neural Networks (GNN) from scratch using NumPy, showcasing key concepts like message passing and aggregation for graph-structured data.
     </li>
         <li>
       <strong><a href="https://github.com/markshperkin/NNplot">Neural Network Activation Function Visualization:</a></strong> This project visualizes the impact of Sigmoid, Hard Limit, and Radial Basis activation functions in single-layer and two-layer neural networks using 3D surface plots generated with NumPy and Matplotlib.
@@ -173,18 +174,7 @@ Jetson Nano. developed as part of the Edge and Neuromorphic Computing class at t
     <a href="https://github.com/markshperkin/Game-AI">View Project</a>
   </p>
   
-  <h3>Backgammon AI Agent</h3>
-  <p align="left">
-    Rule-based chatbot is integrated with an AI agent that plays backgammon using the MinMax search method.
-  </p>
-  <p align="left">
-    <em>This project is in progress.</em>
-  </p>
-  <!-- <p align="left">
-    <a href="https://github.com/markshperkin/CSCE580-MarkShperkin-repo">View Project</a>
-  </p> -->
-  
-  <h3>Android Applications</h3>
+  <h3>Mobile Applications</h3>
   <ul>
     <li>
       <strong><a href="https://github.com/markshperkin/location">Location:</a></strong> Mobile application designed to retrieve user location and display it on a Google Map interface using Google Maps API key.
