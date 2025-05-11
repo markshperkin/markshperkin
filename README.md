@@ -118,11 +118,11 @@ Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" tar
     <li>
       <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch:</a></strong> Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/Game-AI">Connect Four AI Agent:</a></strong> This repository contains an AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning.
+    <li>   
+      <strong><a href="https://github.com/markshperkin/Game-AI">Connect Four AI Agent:</a></strong> This repository contains an AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning. Developed as part of the <a href="https://cse.sc.edu/class/580" target="_blank">Artificial Intelligence</a> at the University of South Carolina.
     </li>
     <li>
-      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
     </li>
     <li>
       <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch:</a></strong> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
