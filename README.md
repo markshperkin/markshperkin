@@ -59,7 +59,7 @@
 <p align="left">
   Implementation of Expected Minimax with α–β Pruning, variations of Temporal Differences including TD(0), TD(λ), and Monte Carlo Simulation.
 
-  Please see my <a href="https://github.com/markshperkin/BackgammonAI-backend/master/report/Final%20Report.pdf" target="_blank">Final Report</a> for more information.
+  Please see my <a href="https://github.com/markshperkin/BackgammonAI-backend/master/report/final%20report.pdf" target="_blank">Final Report</a> for more information.
   
   This project used the <a href="https://www.csd.uwo.ca/~xling/cs346a/extra/tdgammon.pdf" target="_blank">(Temporal Difference Learning and TD-Gammon)</a> research paper to assist in the algorithm design.
   
