@@ -15,7 +15,9 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mark_shperkin/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-shperkin-3655a2273)
-[![Send me and email markshperkin1@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]()
+<a href="mailto:markshperkin1@gmail.com" title="Send me an email">
+  ✉️ markshperkin1@gmail.com
+</a>
 
 <h3>Part of the USC Gamecock swimming SEC D1 team for 5 seasons.</h3>
 
