@@ -13,7 +13,7 @@
 <p>Passionate software engineer, mobile app developer, full-stack developer, and machine learning engineer with a B.S. in Computer Science, currently pursuing an M.S. in Computer Science with a certificate in Artificial Intelligence. Proven track record in creating innovative mobile applications, and user-friendly web platforms, and developing machine learning models for real-world applications. Leveraging leadership, communication, and discipline skills honed through athletic and military experiences, along with my technical expertise, I seek dynamic tech opportunities to deliver impactful and intelligent solutions.</p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mark_shperkin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mark-shperkin-3655a2273/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markshperkin1@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mark_shperkin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mark-shperkin-3655a2273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:markshperkin1@gmail.com) 
 
 <h3>Part of the USC Gamecock swimming SEC D1 team for 5 seasons.</h3>
 
