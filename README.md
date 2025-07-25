@@ -34,6 +34,23 @@
   <summary><h1>💻 Latest Projects</h1></summary>
   <h2>Final Projects</h2>
 
+
+  <h3>Thesis: MULTI-TASK DEEP LEARNING APPROACH FOR SEGMENTING AND CLASSIFYING COMPETITIVE SWIMMING ACTIVITIES USING A SINGLE IMU</h3>
+<p align="left">
+  ABSTRACT:
+Competitive swimming performance analysis has traditionally relied on manual video review and multi-sensor systems, both of which are resource-intensive and impractical for everyday training use. This study investigates whether a single wrist-worn inertial measurement unit (IMU) can be used to automatically segment and classify swimming activities with high accuracy. We propose a multi-task deep learning pipeline based on the MTHARS (Multi-Task Human Activity Recognition and Segmentation) architecture introduced by Duan et al. to perform stroke classification, lap segmentation, stroke count estimation, and underwater kick count estimation. Data were collected from eleven collegiate-level swimmers wearing left-wrist mounted IMUs, each performing five 100-yard sets per stroke (butterfly, backstroke, breaststroke, freestyle, and individual medley) in a 25-yard pool. This pipeline delivers a reliable multi-metric evaluation while significantly reducing the complexity and cost of sensor setups. In leave-one-subject-out validation, the accelerometer-only model achieved a micro-F₁ of 0.7405 (macro-F₁ 0.5894), which improved to 0.7709 (macro-F₁ 0.6565) when gyroscope data were added. This work contributes to the growing field of wearable-based athlete monitoring and has the potential to empower coaches and athletes with real-time, fine-grained performance feedback in competitive swimming using minimal hardware.
+  Please see my <a href="https://github.com/markshperkin/SwimmingMTHARS/blob/main/menuscript.pdf" target="_blank">manuscript</a> for more information.
+
+As part of this project, a custom-made labeling software was developed. This web-based tool is designed to annotate accelerometer and gyroscope time-series data.
+Features an intuitive interface for creating and managing class-specific segments with support for video synchronization for accurate frame-by-frame labeling using ground truth footage.
+  
+</p>
+<p align="left">
+  <a href="https://github.com/markshperkin/SwimmingMTHARS">View ML pipeline</a>
+  <a href="https://github.com/markshperkin/LabelingSoftware">View Labeling Software</a>
+</p>
+
+
   <h3>Full-Stack Backgammon AI/RL agents <a href="https://cse.sc.edu/class/775" target="_blank">(Deep Reinforcement Learning class)</a></h3>
 <p align="left">
   Implementation of Expected Minimax with α–β Pruning, variations of Temporal Differences including TD(0), TD(λ), and Monte Carlo Simulation.
