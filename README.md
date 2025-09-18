@@ -10,7 +10,7 @@
 
 ## 💫 About Me:
 
-<p>Passionate software engineer, mobile app developer, full-stack developer, and machine learning engineer with a B.S. in Computer Science, currently pursuing an M.S. in Computer Science with a certificate in Artificial Intelligence. Proven track record in creating innovative mobile applications, and user-friendly web platforms, and developing machine learning models for real-world applications. Leveraging leadership, communication, and discipline skills honed through athletic and military experiences, along with my technical expertise, I seek dynamic tech opportunities to deliver impactful and intelligent solutions.</p>
+<p>Passionate software engineer, mobile app developer, full-stack developer, and machine learning engineer with a B.S. and M.S. in Computer Science with a certificate in Artificial Intelligence. Proven track record in creating innovative mobile applications and user-friendly web platforms, and developing machine learning models for real-world applications. Leveraging leadership, communication, and discipline skills honed through athletic and military experiences, along with my technical expertise, I seek dynamic tech opportunities to deliver impactful and intelligent solutions.</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mark_shperkin/)
