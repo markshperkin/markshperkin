@@ -36,9 +36,9 @@
   <h2>Fun Projects</h2>
   <h3>Backgammon Multi-Platform Game **in-progress**</h3>
 <p align="left">
-  A modern OOP/OOD backgammon engine with a clean, modular architecture in C++.   
-  The core is unit-tested and decoupled from the UI, which is built with Qt Quick for a responsive, multi-platform experience on IOS, Android, and pc.   
-  Designed for extensibility (AI bots, online play, game modes) and maintainability through clear interfaces and SOLID principles.   
+  A modern OOP/OOD backgammon engine with a clean, modular architecture in C++.     
+  The core is unit-tested and decoupled from the UI, which is built with Qt Quick for a responsive, multi-platform experience on iOS, Android, and pc.     
+  Designed for extensibility (AI bots, online play, game modes) and maintainability through clear interfaces and SOLID principles.      
 </p>
 <p align="left">
   <a href="https://github.com/markshperkin/shesh-besh">View Project</a>
