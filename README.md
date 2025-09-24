@@ -63,6 +63,7 @@ Features an intuitive interface for creating and managing class-specific segment
   <a href="https://github.com/markshperkin/LabelingSoftware">View Labeling Software</a>
 </p>
 
+<hr/>
 
   <h3>Full-Stack Backgammon AI/RL agents <a href="https://cse.sc.edu/class/775" target="_blank">(Deep Reinforcement Learning class)</a></h3>
 <p align="left">
@@ -163,6 +164,8 @@ Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" tar
   <p align="left">
     <a href="https://github.com/david-eta/fancybear">View Project</a>
   </p>
+  
+<hr/>
 
   <h3>Meg's Cookbook</h3>
   <p align="left">
@@ -172,6 +175,8 @@ Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" tar
   <p align="left">
     <a href="https://megscookbook.onrender.com">View Web Application</a>
   </p>
+  
+<hr/>
 
   <h3>MATLAB Algorithms</h3>
   <p align="left">
