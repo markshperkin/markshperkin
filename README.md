@@ -186,6 +186,8 @@ Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" tar
     <a href="https://github.com/markshperkin/Applied-Linear-Algebra">View Project</a>
   </p>
   
+  <hr/>
+
   <h3>Mobile Applications</h3>
   <ul>
     <li>
