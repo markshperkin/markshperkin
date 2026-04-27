@@ -304,10 +304,6 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=markshperkin&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
 ![](https://github-readme-stats.vercel.app/api?username=markshperkin&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=markshperkin&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=markshperkin&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
