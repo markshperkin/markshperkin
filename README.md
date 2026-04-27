@@ -6,6 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mark_shperkin/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-shperkin-3655a2273)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6T9vxTcAAAAJ&hl=en)
 
 <br/>
 
@@ -37,7 +38,7 @@ Athletic and military experience built the discipline and teamwork that define m
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **AI / ML**
 
@@ -57,25 +58,16 @@ Athletic and military experience built the discipline and teamwork that define m
 
 ---
 
-#
-<!-- BEGIN PROJECTS-CARDS -->
+# 🚀 Featured Projects
 
-<details> 
-  <summary><h1>💻 Latest Projects</h1></summary>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&random=false&width=540&lines=Deep+Learning+%C2%B7+Computer+Vision;Reinforcement+Learning+%C2%B7+AI+Agents;Wearable+AI+%C2%B7+Athlete+Performance;Pose+Estimation+%C2%B7+Sports+Analytics" alt="Typing SVG" /></a>
+</div>
 
-  <h2>Fun Projects</h2>
-  <h3>Backgammon Multi-Platform Game **in-progress**</h3>
-<p align="left">
-  A modern OOP/OOD backgammon engine with a clean, modular architecture in C++.     
-  The core is unit-tested and decoupled from the UI, which is built with Qt Quick for a responsive, multi-platform experience on iOS, Android, and pc.     
-  Designed for extensibility (AI bots, online play, game modes) and maintainability through clear interfaces and SOLID principles.      
-</p>
-<p align="left">
-  <a href="https://github.com/markshperkin/shesh-besh">View Project</a>
-</p>
+<br/>
 
-  <h2>Final Projects</h2>
-  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=50&text=Masters%20Thesis%20Research&fontColor=fff&fontSize=18&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+
   <h3>Thesis: MULTI-TASK DEEP LEARNING APPROACH FOR SEGMENTING AND CLASSIFYING COMPETITIVE SWIMMING ACTIVITIES USING A SINGLE IMU</h3>
 <p align="left">
   ABSTRACT:
@@ -93,7 +85,9 @@ Features an intuitive interface for creating and managing class-specific segment
   <a href="https://github.com/markshperkin/LabelingSoftware">View Labeling Software</a>
 </p>
 
-<hr/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=50&text=Backgammon%20AI%20%2F%20RL%20Agents&fontColor=fff&fontSize=18&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 
   <h3>Full-Stack Backgammon AI/RL agents <a href="https://cse.sc.edu/class/775" target="_blank">(Deep Reinforcement Learning class)</a></h3>
 <p align="left">
@@ -110,7 +104,9 @@ Features an intuitive interface for creating and managing class-specific segment
   <a href="https://github.com/markshperkin/BackgammonAI-backend">View Project Backend</a>
 </p>
 
-<hr/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=50&text=ST-GCN%20%C2%B7%20Human%20Activity%20Recognition&fontColor=fff&fontSize=18&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 
   <h3>Spatial-Temporal Graph Convolution Network for Human Activity Recognition <a href="https://cse.sc.edu/class/714" target="_blank">(Edge and Neuromorphic Computing class)</a></h3>
 <p align="left">
@@ -127,7 +123,9 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
   <a href="https://github.com/markshperkin/HAR-STGCN">View Project</a>
 </p>
 
-<hr/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=50&text=AI%20Swimmer%20Pose%20Estimation&fontColor=fff&fontSize=18&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <h3>AI Underwater Swimmer Pose Estimation <a href="https://cse.sc.edu/class/584" target="_blank">(Neural Networks and Their Applications</a> and <a href="https://cse.sc.edu/class/585" target="_blank">Machine Learning Systems classes)</a></h3>
 <p align="left">
@@ -145,50 +143,95 @@ Please see my <a href="https://github.com/markshperkin/HAR-STGCN/blob/master/rep
   <a href="https://github.com/markshperkin/SwimmingPoseEstimation.git">View Project</a>
 </p>
 
-<hr/>
+<br/>
 
-  <h3>Other Machine Learning Projects</h3>
-  <ul>
-    <li>
-      <strong><a href="https://github.com/markshperkin/EdgeFaceSearch">Neural Architecture and Hyperparameter Search for Face Bounding Box Prediction on Edge:</a></strong> This repository contains optimizing a neural network architecture for face bounding box prediction using a given facial image dataset. The primary objective was to design a lightweight
-and efficient model capable of performing inference on resource-constrained hardware, such as NVIDIA
-Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" target="_blank">Edge and Neuromorphic Computing class</a> at the University of South Carolina.
-    </li>
-      <li>
-      <strong><a href="https://github.com/markshperkin/CustomCNNforCIFAR-10">Custom made CNN for CIFAR-10 Classification Problem:</a></strong> The implementation custom CNN inspired by <a href="https://arxiv.org/abs/1409.1556">VGG Architecture</a>, to achieve optimal results based on accuracy and letancy. developed as part of the <a href="https://cse.sc.edu/class/714" target="_blank">Edge and Neuromorphic Computing class</a> at the University of South Carolina.
-    </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch:</a></strong> Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
-    </li>
-    <li>   
-      <strong><a href="https://github.com/markshperkin/Game-AI">Connect Four AI Agent:</a></strong> This repository contains an AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning. Developed as part of the <a href="https://cse.sc.edu/class/580" target="_blank">Artificial Intelligence</a> at the University of South Carolina.
-    </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks:</a></strong> This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
-    </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch:</a></strong> The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
-    </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/GAN_from_scratch">GANs from Scratch Using PyTorch and TensorFlow:</a></strong> The implementation of Generative Adversarial Network (GAN) from scratch using PyTorch and TensorFlow, featuring a generator and discriminator that compete to produce and distinguish realistic synthetic data, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
-    </li>
-        <li>
-      <strong><a href="https://github.com/markshperkin/Transformer_from_scratch">Transformer from Scratch Using PyTorch:</a></strong> The implementation of Transformer model from scratch using PyTorch, leveraging self-attention mechanisms for sequence tasks like NLP, enabling efficient parallel processing and effective handling of word dependencies, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
-    </li>
-        <li>
-      <strong><a href="https://github.com/markshperkin/CNN-from-scratch/tree/master">CNN from Scratch Using NumPy:</a></strong> The implementation of a Convolutional Neural Network (CNN) from scratch using NumPy for image classification, showcasing the core components and operations of a CNN without external libraries, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
-    </li>
-        <li>
-      <strong><a href="https://github.com/markshperkin/GNN/tree/master">GNN from Scratch Using NumPy:</a></strong> The implementation of Graph Neural Networks (GNN) from scratch using NumPy, showcasing key concepts like message passing and aggregation for graph-structured data. Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
-    </li>
-        <li>
-      <strong><a href="https://github.com/markshperkin/NNplot">Neural Network Activation Function Visualization:</a></strong> This project visualizes the impact of Sigmoid, Hard Limit, and Radial Basis activation functions in single-layer and two-layer neural networks using 3D surface plots generated with NumPy and Matplotlib. Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
-    </li>
-  </ul>
+<details>
+<summary><h2>📂 See More Projects</h2></summary>
 
+<br/>
 
+<h2>Fun Projects</h2>
 
-  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=40&text=Backgammon%20Multi-Platform%20Game&fontColor=fff&fontSize=16&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+
+  <h3>Backgammon Multi-Platform Game **in-progress**</h3>
+<p align="left">
+  A modern OOP/OOD backgammon engine with a clean, modular architecture in C++.     
+  The core is unit-tested and decoupled from the UI, which is built with Qt Quick for a responsive, multi-platform experience on iOS, Android, and pc.     
+  Designed for extensibility (AI bots, online play, game modes) and maintainability through clear interfaces and SOLID principles.      
+</p>
+<p align="left">
+  <a href="https://github.com/markshperkin/shesh-besh">View Project</a>
+</p>
+
+<br/>
+
+<h3>Other Machine Learning Projects</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/EdgeFaceSearch">Neural Architecture and Hyperparameter Search for Face Bounding Box Prediction on Edge</a></strong><br/><br/>
+      This repository contains optimizing a neural network architecture for face bounding box prediction using a given facial image dataset. The primary objective was to design a lightweight and efficient model capable of performing inference on resource-constrained hardware, such as NVIDIA Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" target="_blank">Edge and Neuromorphic Computing class</a> at the University of South Carolina.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/CustomCNNforCIFAR-10">Custom made CNN for CIFAR-10 Classification Problem</a></strong><br/><br/>
+      The implementation custom CNN inspired by <a href="https://arxiv.org/abs/1409.1556">VGG Architecture</a>, to achieve optimal results based on accuracy and letancy. developed as part of the <a href="https://cse.sc.edu/class/714" target="_blank">Edge and Neuromorphic Computing class</a> at the University of South Carolina.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/MNIST/tree/master">MNIST Handwritten Digit Classification with PyTorch</a></strong><br/><br/>
+      Using PyTorch to implement a neural network for classifying handwritten digits from the MNIST dataset, with options to train, validate, and test the model on custom images, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/Game-AI">Connect Four AI Agent</a></strong><br/><br/>
+      This repository contains an AI agent that plays the Connect Four game using a minimax algorithm with alpha-beta pruning. Developed as part of the <a href="https://cse.sc.edu/class/580" target="_blank">Artificial Intelligence</a> at the University of South Carolina.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/DynamicNN">Dynamic Neural Networks</a></strong><br/><br/>
+      This repository contains implementations of Examples 1 and 3 from the research paper "<a href="https://maxim.ece.illinois.edu/teaching/fall20/final/Narendra90.pdf">Identification and Control of Dynamical Systems Using Neural Networks</a>". Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/Backward-Propagation-from-Scratch"> Backward Propagation from Scratch</a></strong><br/><br/>
+      The implementation of one-layer and two-layer neural networks from scratch using NumPy for classification and regression tasks, showcasing the construction of neural networks without external deep-learning libraries, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/GAN_from_scratch">GANs from Scratch Using PyTorch and TensorFlow</a></strong><br/><br/>
+      The implementation of Generative Adversarial Network (GAN) from scratch using PyTorch and TensorFlow, featuring a generator and discriminator that compete to produce and distinguish realistic synthetic data, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/Transformer_from_scratch">Transformer from Scratch Using PyTorch</a></strong><br/><br/>
+      The implementation of Transformer model from scratch using PyTorch, leveraging self-attention mechanisms for sequence tasks like NLP, enabling efficient parallel processing and effective handling of word dependencies, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/CNN-from-scratch/tree/master">CNN from Scratch Using NumPy</a></strong><br/><br/>
+      The implementation of a Convolutional Neural Network (CNN) from scratch using NumPy for image classification, showcasing the core components and operations of a CNN without external libraries, developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/GNN/tree/master">GNN from Scratch Using NumPy</a></strong><br/><br/>
+      The implementation of Graph Neural Networks (GNN) from scratch using NumPy, showcasing key concepts like message passing and aggregation for graph-structured data. Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/NNplot">Neural Network Activation Function Visualization</a></strong><br/><br/>
+      This project visualizes the impact of Sigmoid, Hard Limit, and Radial Basis activation functions in single-layer and two-layer neural networks using 3D surface plots generated with NumPy and Matplotlib. Developed as part of the <a href="https://cse.sc.edu/class/584" target="_blank">Neural Networks and Their Applications</a> at the University of South Carolina.
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=40&text=Capstone%20Project&fontColor=fff&fontSize=16&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+
   <h3>Capstone Project</h3>
   <p align="left">
     FancyBear is a web-based platform that simulates the experience of stock trading. Users dive into the world of trading by depositing virtual cash, which they can use to buy and sell stocks in real-time, mimicking the dynamics of the actual stock market. It is aimed to be user-friendly and allows anyone to track their stocks with confidence.
@@ -196,8 +239,10 @@ Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" tar
   <p align="left">
     <a href="https://github.com/david-eta/fancybear">View Project</a>
   </p>
-  
-<hr/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=40&text=Meg%27s%20Cookbook&fontColor=fff&fontSize=16&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 
   <h3>Meg's Cookbook</h3>
   <p align="left">
@@ -207,8 +252,10 @@ Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" tar
   <p align="left">
     <a href="https://megscookbook.onrender.com">View Web Application</a>
   </p>
-  
-<hr/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=40&text=MATLAB%20Algorithms&fontColor=fff&fontSize=16&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 
   <h3>MATLAB Algorithms</h3>
   <p align="left">
@@ -217,26 +264,38 @@ Jetson Nano. developed as part of the <a href="https://cse.sc.edu/class/714" tar
   <p align="left">
     <a href="https://github.com/markshperkin/Applied-Linear-Algebra">View Project</a>
   </p>
-  
-  <hr/>
 
-  <h3>Mobile Applications</h3>
-  <ul>
-    <li>
-      <strong><a href="https://github.com/markshperkin/location">Location:</a></strong> Mobile application designed to retrieve user location and display it on a Google Map interface using Google Maps API key.
-    </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/CameraXApp">CameraXApp:</a></strong> Mobile application enabling users to capture photos and videos, with additional photo editing capabilities.
-    </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/MiniPaint">MiniPaint:</a></strong> Mobile application allowing users to express creativity through drawing, equipped with diverse drawing tools.
-    </li>
-    <li>
-      <strong><a href="https://github.com/markshperkin/Sensor-Game-Application">Sensor-Game-Application:</a></strong> Mobile application offering users an engaging gaming experience utilizing the device's built-in sensors.
-    </li>
-  </ul>
+<br/>
+
+<h2>Mobile Applications</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/location">Location</a></strong><br/><br/>
+      Mobile application designed to retrieve user location and display it on a Google Map interface using Google Maps API key.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/CameraXApp">CameraXApp</a></strong><br/><br/>
+      Mobile application enabling users to capture photos and videos, with additional photo editing capabilities.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/MiniPaint">MiniPaint</a></strong><br/><br/>
+      Mobile application allowing users to express creativity through drawing, equipped with diverse drawing tools.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/markshperkin/Sensor-Game-Application">Sensor-Game-Application</a></strong><br/><br/>
+      Mobile application offering users an engaging gaming experience utilizing the device's built-in sensors.
+    </td>
+  </tr>
+</table>
+
+<br/>
 
   <a href="https://github.com/markshperkin?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
 </details>
 
 ---
