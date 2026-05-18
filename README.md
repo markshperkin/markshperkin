@@ -66,6 +66,22 @@ Athletic and military experience built the discipline and teamwork that define m
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=50&text=Mark%20GPT%20%E2%80%94%20Full-Stack%20AI%20Chat%20%2F%20RAG%20Knowledge%20Base&fontColor=fff&fontSize=18&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+
+  <h3>Mark GPT — Full-Stack AI Chat Grounded on a RAG Knowledge Base</h3>
+<p align="left">
+  Mark GPT is a portfolio LLM that knows everything about me — built for people who are too shy to reach out but still want to get to know me. My entire career lives in its RAG vector database: projects, experience, skills, and background, all retrievable in a conversation.
+
+  Tech: Next.js · TypeScript · FastAPI · Python · Anthropic Claude · Voyage AI · ChromaDB · Docker
+</p>
+<p align="left">
+  <a href="https://github.com/markshperkin/portfolio-ai-frontend">View Frontend</a>
+  <a href="https://github.com/markshperkin/portfolio-ai-backend">View Backend</a>
+  <a href="https://github.com/markshperkin/portfolio-ai-knowledge">View Knowledge Base</a>
+</p>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=50&text=Masters%20Thesis%20Research&fontColor=fff&fontSize=18&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 
   <h3>Thesis: MULTI-TASK DEEP LEARNING APPROACH FOR SEGMENTING AND CLASSIFYING COMPETITIVE SWIMMING ACTIVITIES USING A SINGLE IMU</h3>
